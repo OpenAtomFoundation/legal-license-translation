@@ -214,7 +214,7 @@ You may publish this translation, modified or unmodified, only under the terms a
 
 >　<用一行来标明程序名及其作用>
 
->　版权所有（C）<年份> <作者姓名>
+>　版权所有（c）<年份> <作者姓名>
 
 >　本程序为自由软件，在自由软件联盟发布的GNU通用公共许可协议的约束下，你可以对其进行再发布及修改。协议版本为第三版或（随你）更新的版本。
 
@@ -227,7 +227,7 @@ You may publish this translation, modified or unmodified, only under the terms a
 如果该程序是交互式的，让它在交互模式下输出类似下面的一段声明：
 
 
->　<程序名> 第69版，版权所有（C）<年份> <作者姓名>
+>　<程序名> 第69版，版权所有（c）<年份> <作者姓名>
 
 >　本程序从未提供品质担保，输入'show w'可查看详情。这是款自由软件，欢迎你在满足一定条件后对其再发布，输入'show c'可查看详情。
 
