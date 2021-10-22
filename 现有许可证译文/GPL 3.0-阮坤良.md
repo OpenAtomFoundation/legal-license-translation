@@ -1,4 +1,5 @@
-注：该译文系原样复制于：https://jxself.org/translations/gpl-3.zh.shtml 
+注：该译文系原样复制于：https://jxself.org/translations/gpl-3.zh.shtml ，译者为阮坤良
+
 
 
 ## GNU通用公共许可协议
