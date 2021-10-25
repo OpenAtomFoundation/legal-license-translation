@@ -2,12 +2,12 @@
 
 ## GNU 自由文本授权 (简体中文翻译版)
 
-## 声明!
-这是一份 GNU 自由文本授权非正式的中文翻译。它并非由自由软件基金会所发表，亦非使用 GNU 自由文本授权的文件的法定发布条款─只有 GNU 自由文本授权英文原文的版本始具有此等效力。然而，我们希望这份翻译能帮助中文的使用者更了解 GNU 自由文本授权。	 	
+### 声明!
+这是一份 GNU 自由文本授权非正式的中文翻译。它并非由自由软件基金会所发表，亦非使用 GNU 自由文本授权的文件的法定发布条款─只有 [GNU 自由文本授权英文原文](http://www.gnu.org/licenses/fdl.html)的版本始具有此等效力。然而，我们希望这份翻译能帮助中文的使用者更了解 GNU 自由文本授权。	 	
 
-This is an unofficial translation of the GNU Free Documentation License into Chinese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for documents that uses the GNU FDL--only the original English text of the GNU FDL does that. However, we hope that this translation will help Chinese speakers understand the GNU FDL better.
+This is an unofficial translation of the GNU Free Documentation License into Chinese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for documents that uses the GNU FDL--only [the original English text of the GNU FDL](http://www.gnu.org/licenses/fdl.html) does that. However, we hope that this translation will help Chinese speakers understand the GNU FDL better.
  
-> GNU 自由文本授权
+## GNU 自由文本授权
 
 > 第1.3版, 2008年11月
 
@@ -67,35 +67,35 @@ This is an unofficial translation of the GNU Free Documentation License into Chi
 ### 4. 修改
 你可以在上述第二条和第三条的条件下，复制和发布文件的修改版本，其条件为你要精确地在本授权下发布修改版本，且修改版本补足了文件的角色，从而允许修改版本的发布和修改权利给任何拥有它拷贝的人。另外，你必须在修改版本中做这些事：
 
-第一款、 在标题页或在封面上使用，如果有与先前版本不同的文件，应该被列在文件的历史章节不同的标题。如果版本的原始出版者允许，你可以使用与某一个先前版本相同的标题。
+ **第一款、**  在标题页或在封面上使用，如果有与先前版本不同的文件，应该被列在文件的历史章节不同的标题。如果版本的原始出版者允许，你可以使用与某一个先前版本相同的标题。
 
-第二款、 在修改版本的标题页上列出担负作者权的一个或多个人或实体作为作者，并且列出至少五位文件的主要作者。如果少于五位，则列出全部的主要作者，除非他们免除了你这个要求。
+ **第二款、**  在修改版本的标题页上列出担负作者权的一个或多个人或实体作为作者，并且列出至少五位文件的主要作者。如果少于五位，则列出全部的主要作者，除非他们免除了你这个要求。
 
-第三款、 在标题页陈述修改版本的出版者的名称作为出版者。
+ **第三款、**  在标题页陈述修改版本的出版者的名称作为出版者。
 
-第四款、 保存文件的所有版权声明。
+ **第四款、**  保存文件的所有版权声明。
 
-第五款、 为你的修改增加一个与其它版权声明相邻的适当的版权声明。
+ **第五款、**  为你的修改增加一个与其它版权声明相邻的适当的版权声明。
 
-第六款、 在版权声明后面，以授权附录所显示的形式，包括一个给予公众在本授权条款下使用修改版本的许可声明。
+ **第六款、**  在版权声明后面，以授权附录所显示的形式，包括一个给予公众在本授权条款下使用修改版本的许可声明。
 
-第七款、 在那个许可声明中保存恒常章节和文件许可声明中必要封面文字的全部列表。
+ **第七款、**  在那个许可声明中保存恒常章节和文件许可声明中必要封面文字的全部列表。
 
-第八款、 包括一个未被改变的本授权的副本。
+ **第八款、**  包括一个未被改变的本授权的副本。
 
-第九款、 保存标题为历史的章节和其标题，并且增加一项至少陈述如同在标题页中所给的修改版本的标题、年份、新作者和出版者。如果在文件中没有标题为历史的章节，则制作出一个陈述如同在它的标题页中所给的文件的标题、年份、新作者和出版者，然后增加一项描述修改版本如前面句子所陈述的情形。
+ **第九款、**  保存标题为历史的章节和其标题，并且增加一项至少陈述如同在标题页中所给的修改版本的标题、年份、新作者和出版者。如果在文件中没有标题为历史的章节，则制作出一个陈述如同在它的标题页中所给的文件的标题、年份、新作者和出版者，然后增加一项描述修改版本如前面句子所陈述的情形。
 
-第十款、 如果有的话，保存在文件中为了给公众存取文件的透明拷贝，而给予的网络位址，以及同样地在文件中为了它所根据的先前版本，而给予的网络位址。这些可以被放置在历史章节。你可以省略一个在文件本身之前，已经至少出版了四年的作品的网络位址，或是如果它所参照的那个版本的原始出版者给予允许的情形下也可以省略它。
+ **第十款、**  如果有的话，保存在文件中为了给公众存取文件的透明拷贝，而给予的网络位址，以及同样地在文件中为了它所根据的先前版本，而给予的网络位址。这些可以被放置在历史章节。你可以省略一个在文件本身之前，已经至少出版了四年的作品的网络位址，或是如果它所参照的那个版本的原始出版者给予允许的情形下也可以省略它。
 
-第十一款、 在任何标题为感谢或贡献的章节，保存章节的标题，并且在那章节保存到那时候为止，每一个贡献者的感谢以及或贡献的所有声色。
+ **第十一款、**  在任何标题为感谢或贡献的章节，保存章节的标题，并且在那章节保存到那时候为止，每一个贡献者的感谢以及或贡献的所有声色。
 
-第十二款、 保存文件的所有恒常章节，于其文字以及标题皆不得变更。章节号码或其同等物并不被认为是章节标题的一部份。
+ **第十二款、**  保存文件的所有恒常章节，于其文字以及标题皆不得变更。章节号码或其同等物并不被认为是章节标题的一部份。
 
-第十三款、 删除任何标题为背书的章节。这样子的章节不可以被包括在修改版本中。
+ **第十三款、**  删除任何标题为背书的章节。这样子的章节不可以被包括在修改版本中。
 
-第十四款、 不要重新命名任何现存的章节，而使其标题为背书，或造成与任何恒常章节相冲突的标题。
+ **第十四款、**  不要重新命名任何现存的章节，而使其标题为背书，或造成与任何恒常章节相冲突的标题。
 
-第十五款、 保存任何的担保放弃。
+ **第十五款、**  保存任何的担保放弃。
 
 如果修改版本包括新的本文之前内容的章节，或合乎作为次要章节的附录，并且没有包含复制自文件的内容，则你具有选择可以指定一些或全部这些章节为恒常的。要这样做，将它们的标题增加到在修改版本许可声明中的恒常章节列表中。这些标题必须可以和任何其它章节标题加以区别。
 
@@ -151,7 +151,7 @@ MMC有重新授权的资格，如果它是在MMC下授权；或者所有的作�
 
 那么MMC网站的操作者会在2009年8月1日之前的任何时间在同一网站重新发布包含在这一网站的MMC是经过CC-BY-SA 授权的，只要那个MMC有资格重新授权。
 
-授权附录：如何使用本授权用于你的文件
+### 授权附录：如何使用本授权用于你的文件
 为使用本授权成为你撰写成的一份文件，必须在文件中包括本授权的一份复本，以及标题页的后面包括许可声明：
 
 Copyright (c) YEAR YOUR NAME. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".
@@ -166,8 +166,8 @@ with the Invariant Sections being LIST THEIR TITLES, with the Front-Cover Texts 
 ####  脚注
 原文网站: http://www.gnu.org/licenses/fdl.html
 
-参考: 为方便比对英文原文 - FDL 中英语对照版本 | 较前的版本 FDL 1.2 以及其中英语对照版本 .
+参考: 为方便比对英文原文 - [FDL 中英语对照版本](http://www.thebigfly.com/gnu/FDLv1.3/bilingual.php) | 较前的版本 [FDL 1.2](http://www.thebigfly.com/gnu/FDLv1.2/) 以及其[中英语对照版本](http://www.thebigfly.com/gnu/FDLv1.2/bilingual.php) .
 
-GNU 较宽松公共许可证 - GNU Lesser General Public License (LGPL) | GNU 通用公共授权 - GNU General Public License ([GPL](http://www.thebigfly.com/gnu/gpl/)) | [GNU 文档翻译目录](http://www.thebigfly.com/gnu/).
+GNU 较宽松公共许可证 - GNU Lesser General Public License ([LGPL](http://www.thebigfly.com/gnu/lgpl/)) | GNU 通用公共授权 - GNU General Public License ([GPL](http://www.thebigfly.com/gnu/gpl/)) | [GNU 文档翻译目录](http://www.thebigfly.com/gnu/).
 
 请将有关本网页的建议发给 [Leo](leohca@yahoo.com) 或者通过[网页](http://www.thebigfly.com/gnu/contact.php)发送, 有关授权的内容也可咨询 GNU/CTT.
