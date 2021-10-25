@@ -154,6 +154,7 @@ MMC有重新授權的資格，如果它是在MMC下授權；或者所有的作�
 爲使用本授權成爲你撰寫成的一份文件，必須在文件中包括本授權的一份複本，以及標題頁的後面包括許可聲明：
 
 > Copyright (c) YEAR YOUR NAME. 
+
 > Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".
 
 如果你有恒常章節、前封面文字和後封面文字，請將with... Texts這一行以這些文本取代：
