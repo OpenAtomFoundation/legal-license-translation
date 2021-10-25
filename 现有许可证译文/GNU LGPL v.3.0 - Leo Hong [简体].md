@@ -17,7 +17,7 @@ This is an unofficial translation of the LGPL Free Documentation License into Ch
 
 本版本的GNU较宽松公共许可证包含了GNU通用公共授权第三版里的项目和条款，以下是复制，发布和修改软件的详细条款和条件。
 
-### 0.附加定义
+### 0. 附加定义
 
    “本授权”指GNU较宽松公共许可证第三版，“GNU GPL”是指通用公共授权第三版。
 
