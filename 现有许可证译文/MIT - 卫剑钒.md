@@ -1,4 +1,4 @@
- _注：该译文系原样复制于：https://mp.weixin.qq.com/s/GGf0pMaIZVb6ykBBWdjNIg ，译者为卫剑钒。MIT原文见于：https://opensource.org/licenses/MIT ._ 
+ _注：该译文系原样复制于：https://mp.weixin.qq.com/s/GGf0pMaIZVb6ykBBWdjNIg ，译者为卫剑钒。MIT英文原文见于：https://opensource.org/licenses/MIT ._ 
 
 
 ## 【正经版翻译】
