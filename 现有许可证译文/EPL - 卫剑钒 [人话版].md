@@ -137,20 +137,6 @@
 
 你可以加入更多有关版权归属的声明信息。
 
- _下面是一个带第二许可证的文件头示例（来自FAQ）：
-_ 
-/********************************************************************************
-* Copyright (c) {date} {owner} [and others]
-*
-* This program and the accompanying materials are made available under the
-* terms of the Eclipse Public License 2.0 which is available at
-* http://www.eclipse.org/legal/epl-2.0.
-*
-* This Source Code may also be made available under the following Secondary
-* Licenses when the conditions for such availability set forth in the Eclipse
-* Public License, v. 2.0 are satisfied: GNU General Public License, version 2
-* with the GNU Classpath Exception which is
-* available at https://www.gnu.org/software/classpath/license.html.
-*
-* SPDX-License-Identifier: EPL-2.0 OR GPL-2.0 WITH Classpath-exception-2.0
-********************************************************************************/
+ _下面是一个带第二许可证的文件头示例（来自FAQ）：_ 
+
+![输入图片说明](https://images.gitee.com/uploads/images/2021/1025/204421_e3c12096_9179512.png "屏幕截图.png")
