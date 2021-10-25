@@ -1,4 +1,4 @@
-注：该译文系原样复制于：https://mp.weixin.qq.com/s/GGf0pMaIZVb6ykBBWdjNIg ，译者为卫剑钒。MIT原文见于：https://opensource.org/licenses/MIT .
+ _注：该译文系原样复制于：https://mp.weixin.qq.com/s/GGf0pMaIZVb6ykBBWdjNIg ，译者为卫剑钒。MIT原文见于：https://opensource.org/licenses/MIT ._ 
 
 ## MIT开源许可协议
 （中文版翻译：卫sir，遵循：CC-BY协议）
