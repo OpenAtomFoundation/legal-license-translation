@@ -118,7 +118,7 @@ You may publish this translation, modified or unmodified, only under the terms a
 
 
 翻译：阮坤良<peterrk@pku.edu.cn>
-校对：汪蔚<soulww@163.com>，和丹<hedan1229@163.com>
+校对：汪蔚<soulww@163.com>、和丹<hedan1229@163.com>
 
 译注：
 * [1] distribute既译作分发也译作发布，前者强调转发，后者强调公布。
