@@ -1,6 +1,8 @@
  _注：该译文系原样复制于：https://mp.weixin.qq.com/s/muPDVThX5S4vsXuM5PEoIw ，译者为卫剑钒。GNU GPL v.3.0英文原文见于：https://www.gnu.org/licenses/gpl-3.0.html._ 
 
 
+
+
 注1：如果不加特别说明，本文中的GPL即指GPLv3，也即GPL version 3。
 
 注2：在本解读里，“授权”和“许可”是一样的，“许可证”和“协议”是一样的，“作品”、“程序”、“软件”是一样的，“采用GPL许可证的作品”、“GPL程序”、“受保护程序”是一样的，“拷贝”和“副本”是一样的，就看语境以及怎么顺口怎么说了。
