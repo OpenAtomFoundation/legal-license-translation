@@ -1,4 +1,4 @@
-注：该译文系原样复制于：https://mp.weixin.qq.com/s/muPDVThX5S4vsXuM5PEoIw ，译者为卫剑钒。GNU GPL v.3.0英文原文见于：https://www.gnu.org/licenses/gpl-3.0.html.
+ _注：该译文系原样复制于：https://mp.weixin.qq.com/s/muPDVThX5S4vsXuM5PEoIw ，译者为卫剑钒。GNU GPL v.3.0英文原文见于：https://www.gnu.org/licenses/gpl-3.0.html._ 
 
 GPLv3在此！
 
@@ -20,7 +20,7 @@ GPL可以用于软件，也可以用于其他类型的作品。
 
 大多数软件，都不让你分享给他人（比如不让你拷贝给别人，别人如果想用，他只能自己去买），也不让你修改（修改商业软件被判刑的屡见不鲜）。和他们相反，GPL就免费让你干这些事，就给你这样的自由，并且你修改、分享给别人后，别人仍然拥有这样的自由！
 
-    相比之下，如果你给一个私有软件（非自由软件）写了一个外挂，相当于修改了这个程序，你如果把这个外挂发布出来，你就可能被告、被抓，被判刑，比如：“全国首例《王者荣耀》游戏外挂获刑案”1，再如早年间北京理工大学老师陈寿福因制作珊瑚虫QQ而获刑三年2。
+    相比之下，如果你给一个私有软件（非自由软件）写了一个外挂，相当于修改了这个程序，你如果把这个外挂发布出来，你就可能被告、被抓，被判刑，比如：“[全国首例《王者荣耀》游戏外挂获刑案”](https://mp.weixin.qq.com/s?__biz=MjM5ODA5OTE1MQ==&mid=2650827555&idx=1&sn=ec5788f0dfad248e85806aed30f9bf43&scene=21#wechat_redirect)1，再如早年间北京理工大学老师[陈寿福因制作珊瑚虫QQ而获刑三年](http://mp.weixin.qq.com/s?__biz=MjM5ODA5NDk4Ng==&mid=207861239&idx=1&sn=eda8710e44d3cf6ffd708d320d241b0e&scene=21#wechat_redirect)2。
 
 一个软件用了GPL许可证，他就是自由软件（别忘了使用MIT、Apahce许可证的都是自由软件），更为重要的是，他的子子孙孙也都是自由软件（copyleft类许可证才能做到这点），人们都可以自由地使用它们！
 
