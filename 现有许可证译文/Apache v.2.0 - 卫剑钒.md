@@ -6,11 +6,11 @@
 
 Apache许可证
 
-> 版本2.0，2004年1月
+版本2.0，2004年1月
 
-> http://www.apache.org/licenses/
+http://www.apache.org/licenses/
 
-> 使用、复制和分发的条款与条件
+使用、复制和分发的条款与条件
 
 ### 1. 定义
 
