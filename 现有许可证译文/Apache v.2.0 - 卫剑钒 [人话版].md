@@ -78,15 +78,15 @@ http://www.apache.org/licenses/
 
 将Apache许可证应用于你作品中某一特定文件时，请附加以下样板声明，“ [ ]”括起来的字段应替换为你自己的标识信息。（不要包括方括号！），这段文本应该位于该文件的注释当中。我们还建议将文件名或类别名以及用途说明，和版权声明放在同一“打印页面”中，以便更容易地将第三方文档区分开来。
 
-Copyright [yyyy] [name of copyright owner]
+    Copyright [yyyy] [name of copyright owner]
 
-Licensed under the Apache License, Version 2.0 (the "License");
+    Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-    http://www.apache.org/licenses/LICENSE-2.0
+        http://www.apache.org/licenses/LICENSE-2.0
 
-Unless required by applicable law or agreed to in writing, software
+    Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
