@@ -1,4 +1,4 @@
-注：该译文系原样复制于：https://jxself.org/translations/gpl-3.zh.shtml ，译者为阮坤良
+ _注：该译文系原样复制于：https://jxself.org/translations/gpl-3.zh.shtml ，译者为阮坤良_ 
 
 
 
