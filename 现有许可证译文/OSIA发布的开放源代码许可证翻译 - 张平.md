@@ -6,4 +6,4 @@
 
 ISBN 7-301-09798-0/D 1315
 
-该书第174页至412页为对OSIA发布的开放源代码许可证的中文简体翻译，涉及GPL、LGPL、APSL、Artist、Common、IBM、Jabber、MOTOSOTO、MPL、QPL、NOLOS、Ricoh、SISSL、SPL、CCPL、CDDL、BSD共计17个许可证。
+作者对OSIA发布的开放源代码许可证进行了中文翻译，涉及GPL、LGPL、APSL、Artist、Common、IBM、Jabber、MOTOSOTO、MPL、QPL、NOLOS、Ricoh、SISSL、SPL、CCPL、CDDL、BSD共计17个许可证。可见于该书第174页至412页。
