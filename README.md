@@ -33,7 +33,7 @@
 
 （2）专家组：开源相关领域学者、法务/律师、社区专家等。
 
- **Samuel Chong** , 美国加州和纽约州州法庭认证翻译，美国联邦法庭注册翻译，目前居住于洛杉矶。曾翻译并校对多分开源技术文件，也是台版《海奥华预言》一书的翻译校对，并翻译了"334 ‰ Lies: The Revelation of H. M. v. Stuhl" 一书。附：[简历](http://www.certifiedchinesetranslation.com/sc/Los-Angeles-Chong.html)
+ **Samuel Chong** , 美国加州和纽约州州法庭认证翻译，美国联邦法庭注册翻译，目前居住于洛杉矶。曾翻译并校对多份开源技术文件，也是台版《海奥华预言》一书的翻译校对，并翻译了"334 ‰ Lies: The Revelation of H. M. v. Stuhl" 一书。附：[简历](http://www.certifiedchinesetranslation.com/sc/Los-Angeles-Chong.html)
 ![输入图片说明](Samuel-Chong-Chinese-Translator.jpg)
 
 （3）基金会：工作人员。
