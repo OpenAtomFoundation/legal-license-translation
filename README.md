@@ -33,8 +33,12 @@
 
 （2）专家组：开源相关领域学者、法务/律师、社区专家等。
 
- **Samuel Chong** , 美国加州和纽约州州法庭认证翻译，美国联邦法庭注册翻译，目前居住于洛杉矶。曾翻译并校对多份开源技术文件，也是台版《海奥华预言》一书的翻译校对，并翻译了"334 ‰ Lies: The Revelation of H. M. v. Stuhl" 一书。附：[简历](http://www.certifiedchinesetranslation.com/sc/Los-Angeles-Chong.html)
+ **周明辉** ，北京大学计算机系教授，北大博雅特聘教授。主要研究兴趣是软件工程、人机交互和开源数字社会学。在国际顶级期刊和会议等发表70多篇论文，获ACM杰出论文奖和会议最佳论文奖。入选教育部新世纪优秀人才计划；获国家杰青项目。多次担任国际顶级会议ICSE、FSE、ASE和MSR、SANER等的PC和PC Chair等。主持制定了首个中英双语开源许可证“木兰宽松许可证”并获得OSI认证。
 
-![输入图片说明](%E7%8E%B0%E6%9C%89%E8%AE%B8%E5%8F%AF%E8%AF%81%E8%AF%91%E6%96%87/Samuel-Chong-Chinese-Translator.jpg)
+ **沈芬律师** ，系华为首席开源法律专家，从事版权及开源工作十余年，主要负责公司主导开源项目法务策略及协议设计，参与类开源项目法务支撑，开源合规遵从以及版权领域的风险防控及纠纷诉讼等。
+
+ **Samuel Chong** , 美国加州和纽约州州法庭认证翻译，美国联邦法庭注册翻译，目前居住于洛杉矶。曾翻译并校对多份开源技术文件，也是台版《海奥华预言》一书的翻译校对，并翻译了"334 ‰ Lies: The Revelation of H. M. v. Stuhl" 一书。[简历](http://www.certifiedchinesetranslation.com/sc/Los-Angeles-Chong.html)
+
+![输入图片说明](%E8%AF%91%E6%96%87%E6%8A%95%E7%A8%BF/%E6%88%AA%E5%B1%8F2021-12-07%20%E4%B8%8B%E5%8D%886.41.38.png)
 
 （3）基金会：工作人员。
