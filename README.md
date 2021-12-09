@@ -21,7 +21,7 @@
 
  **Samuel Chong** , 美国加州和纽约州州法庭认证翻译，美国联邦法庭注册翻译，目前居住于洛杉矶。曾翻译并校对多份开源技术文件，也是台版《海奥华预言》一书的翻译校对，并翻译了"334 ‰ Lies: The Revelation of H. M. v. Stuhl" 一书。[简历](http://www.certifiedchinesetranslation.com/sc/Los-Angeles-Chong.html)
 
-![输入图片说明](%E7%8E%B0%E6%9C%89%E8%AE%B8%E5%8F%AF%E8%AF%81%E8%AF%91%E6%96%87/%E6%88%AA%E5%B1%8F2021-12-08%20%E4%B8%8A%E5%8D%8811.00.16.png)
+![输入图片说明](%E7%8E%B0%E6%9C%89%E8%AE%B8%E5%8F%AF%E8%AF%81%E8%AF%91%E6%96%87/%E4%B8%93%E5%AE%B6%E5%9B%A2%E7%85%A7%E7%89%87.png)
 
 （3）基金会：工作人员。
 
