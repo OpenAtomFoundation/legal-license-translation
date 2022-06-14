@@ -1,7 +1,7 @@
 # “源译识” 开源许可证翻译项目
 
 ## 项目介绍
-当前，除木兰（Mulan）系列许可证采用中英双语版本正式发布外，主流的开源许可证大多使用英语、甚至专业化法律英语文本发布，这对以汉语为母语的开发者在理解、使用相关开源许可证时形成了一定的语言障碍；而目前主流开源许可证并无经审核发布的中文译本。本项目拟通过开放讨论、权威评审的方式，以基金会名义发布公开可用的、可信赖的中文译本，降低开源许可证的理解门槛。
+当前，除木兰（Mulan）系列许可证采用中英双语版本正式发布外，主流的开源许可证大多使用英语、甚至专业化法律英语文本发布，这对以汉语为母语的开发者在理解、使用相关开源许可证时形成了一定的语言障碍；而目前主流开源许可证并无经审核发布的中文译本。本项目拟通过开放讨论、权威评审的方式，以基金会名义发布公开可用的、可信赖的中文译本，降低开源许可证的理解门槛。即日起面向征集来源包括但不限于高校学生、企业开发者、个人开发者以及广大的开源爱好者，欢迎您以实名、匿名或化名投稿参与。
 
 ## 项目目标
 为开发者提供提供公开可用的、可信赖的开源许可证中文译本。
@@ -21,25 +21,105 @@
 
  **Samuel Chong** , 美国加州和纽约州州法庭认证翻译，美国联邦法庭注册翻译，目前居住于洛杉矶。曾翻译并校对多份开源技术文件，也是台版《海奥华预言》一书的翻译校对，并翻译了"334 ‰ Lies: The Revelation of H. M. v. Stuhl" 一书。[简历](http://www.certifiedchinesetranslation.com/sc/Los-Angeles-Chong.html)
 
+## 投稿方式
 
-## 项目工作流程
-#### 1.开放讨论
-（1）在Gitee上设置开源许可证翻译项目的公开仓库/开放社区，所有人均可参与相关开源许可证译文的公开提交和讨论。
+译文投稿请直接提交至本项目的[Gitee仓库](http://gitee.com/OpenAtomFoundation/legal-license-translation)下对应的许可证文件夹，或者投递至 Translation@openatom.io 并由基金会侧上传至前述Gitee仓。您可以使用md、word、txt格式提交您的译文，译文的文件标题请参照示例【GPL-2.0翻译-张三-20211231】；同时，请您务必在译文文件首页顶部注明  **_本人承诺，该译文系XXX的原创翻译。本人同意，一旦被开放原子开源基金会开源许可证翻译项目选为终版译本，本人将以CC0协议贡献至公有领域。_**  
 
-（2）基金会工作人员将同时收集已知的译文（已开源或已取得授权），并将相关译文整理上传至开源许可证翻译项目仓库，供公开讨论。
+## 译文征稿截止日
+(注：下述“[]”内的内容为SPDX许可证缩写)
 
-（3）所有提交译文的贡献者须同意其译文以CC0协议贡献至公有领域。
+第一阶段：2022年8月31日为如下主流开源许可证译文的征稿截止日。
 
-（4）在开放社区内发布开源许可证的翻译时间表。该时间表原则上优先安排经OSI认证的开源许可证翻译，也将包含其他广泛使用或关注度较高的、未经OSI认证的许可证。
-#### 2.权威评审
-（1）在开源相关的学者、法务/律师、社区专家及社区贡献者等多方人群中，基于对开源、行业、语言的理解和/或贡献的情况，推选专家组成本开源许可证翻译项目专家组。
 
-（2）基金会工作人员在翻译时间表设置的开放讨论期满后从社区中选定符合贡献要求的完整译文文本（如届时符合贡献要求的译文数量超过十份，则先在社区内组织投票初筛），并提交至本项目专家组进行投票，推选得票最高的译文为审定版本的基础，并在社区进行公示，公开收集对译文的修订意见和建议。
+```
+1.[Apache 2.0] Apache License 2.0
+2.[BSD-3-Clause] 3-clause BSD license
+3.[BSD-2-Clause] 2-clause BSD license
+4.[GPL-2.0] GNU General Public License version 2
+5.[GPL-3.0] GNU General Public License version 3
+6.[LGPL-2.0] GNU Library General Public License, version 2
+7.[LGPL-2.1] GNU Lesser General Public License, version 2.1
+8.[LGPL-3.0] GNU Lesser General Public License, version 3
+9.[MIT] MIT license
+10.[MPL-2.0] Mozilla Public License 2.0
+```
 
-（3）公示期满后，将把社区及专家组对译文的修订意见及建议进行整理，通过邮件列表、微信群、在线会议等方式协调专家组对问题进行评审和修订。
 
-（4）经专家组全体评审确认无修订或反对意见的译文在社区中进行公示。公示期内社区如有对译文的修订意见和建议将及时同步与专家组沟通确认，并在社区反馈。公示期满后译文审定通过。
-#### 3.审定发布
-（1）基金会对经审定的译文予以公开发布推广（ _经审定的中文译本以 **CC0协议** 贡献至公有领域_ ）。
+第二阶段：2022年9月30日为如下特定用途许可证译文的征稿截止日。
 
-（2）基金会对参与审定译文内容的所有贡献者（包括专家组、社区提供修订意见和建议的人员等）以恰当形式予以公开表彰。
+
+```
+14.[BSD-2-Clause-Patent] BSD-2 Clause Plus Patent License Patent
+15.[ECL-2.0] Educational Community License, Version 2.0
+16.[IPA] IPA Font License
+17.[BSD-3-Clause-LBNL] Lawrence Berkeley National Labs BSD Variant License
+18.[NASA-1.3] NASA Open Source Agreement 1.3
+19.[OSET-PL-2.1] OSET Public License version 2.1
+20.[OFL-1.1] SIL Open Font License 1.1
+21.[Unicode-DFS-2016] Unicode License Agreement - Data Files and Software
+22.[Unlicense] The Unlicense
+23.[UCL-1.0] Upstream Compatibility License v1.0
+24.[CC-BY-SA-4.0] Creative Commons Attribution ShareAlike 4.0 International Public License
+25.[CC-BY-NC-SA-4.0] Creative Commons Attribution Non Commercial Share Alike 4.0 International
+26.[CC-BY-NC-ND-4.0] Creative Commons Attribution Non Commercial No Derivatives 4.0 International
+27.[CERN-OHL-P-2.0] CERN Open Hardware Licence Version 2 - Permissive
+28.[CERN-OHL-W-2.0] CERN Open Hardware Licence Version 2 - Weakly Reciprocal
+29.[CERN-OHL-S-2.0] CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+
+```
+
+第三阶段：2022年10月30日为如下其他许可证及已被取代的许可证译文的征稿截止日。
+
+其他许可证：
+
+```
+30.[0BSD] 0-clause BSD License
+31.[BSD-1-Clause] 1-clause BSD License
+32.[APL-1.0] Adaptive Public License
+33.[Artistic-2.0] Artistic license 2.0
+34.[0BSD] Free Public License 1.0.0
+35.[MIT-0] MIT No Attribution License
+36.[OSL-3.0] Open Software License
+37.[QPL-1.0] Q Public License
+38.[UPL] Universal Permissive License
+39.[Zlib] zlib/libpng license
+```
+
+
+已被取代的许可证：
+
+
+```
+40.[Apache-1.1] Apache Software License 1.1
+41.[Artistic-1.0] Artistic license 1.0
+42.[CPL-1.0] Common Public License 1.0
+43.[EPL-1.0] Eclipse Public License 1.0
+44.[ECL-1.0] Educational Community License, Version 1.0
+45.[EFL-1.0] Eiffel Forum License V1.0
+46.[LPL-1.0] Lucent Public License ("Plan9"), version 1.0
+47.[MPL-1.0] Mozilla Public License 1.0
+48.[MPL-1.1] Mozilla Public License 1.1
+49.[OSL-1.0] Open Software License 1.0
+50.[OSL-2.1] Open Software License 2.1
+51.[PHP-3.0] PHP License 3.0
+52.[RPL-1.1] Reciprocal Public License, version 1.1
+53.[ZPL-2.0] Zope Public License 2.0
+```
+
+
+第四阶段：2022年12月31日为本项目征稿截止日，除以上明确截止日的[其他开源许可证](https://opensource.org/licenses/category)均可在此前进行投稿。
+
+说明：以上截止日可能视实际征稿情况进行调整。
+
+## 译文评审
+译文征稿截止日期满后，专家组对已满5份翻译的许可证开始进行评审，不满5份则延迟评审。如已满5份，在征稿截止日之一个月内仍有投稿，则仍纳入评审范围；征稿截止日一个月后，原则上不再接收投稿。如延迟一个月后仍不满5份的，则该许可证评审暂停。
+
+专家组将对投稿译文进行投票，推选得票最高的译文为审定版本的基础，并在社区公示至少两周，公开收集对译文的修订意见和建议。公示期满后，将把社区及专家组对译文的修订意见及建议进行整理，通过邮件列表、微信群、在线会议等方式协调专家组对问题进行评审和修订，最后将最终译文版本公布并以CC0协议贡献至公有领域。
+
+ _如对以上许可证译文或其评审有建议或异议，欢迎联系 Translation@openatom.io ，非常感谢！_ 
+
+
+
+
+
+详见：[开源许可证译文征集令](https://mp.weixin.qq.com/s/ydxXnlTqvzQCP8c7m2FF3w)
