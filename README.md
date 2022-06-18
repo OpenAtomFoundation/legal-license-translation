@@ -4,7 +4,7 @@
 当前，除木兰（Mulan）系列许可证采用中英双语版本正式发布外，主流的开源许可证大多使用英语、甚至专业化法律英语文本发布，这对以汉语为母语的开发者在理解、使用相关开源许可证时形成了一定的语言障碍；而目前主流开源许可证并无经审核发布的中文译本。本项目拟通过开放讨论、权威评审的方式，以基金会名义发布公开可用的、可信赖的中文译本，降低开源许可证的理解门槛。即日起面向征集来源包括但不限于高校学生、企业开发者、个人开发者以及广大的开源爱好者，欢迎您以实名、匿名或化名投稿参与。
 
 ## 项目目标
-为开发者提供提供公开可用的、可信赖的开源许可证中文译本。
+为开发者提供公开可用的、可信赖的开源许可证中文译本。
 
 ## 项目评审专家
 
@@ -22,7 +22,8 @@
 
 ## 投稿方式
 
-译文投稿请直接提交至本项目的[Gitee仓库](http://gitee.com/OpenAtomFoundation/legal-license-translation)下对应的许可证文件夹，或者投递至 Translation@openatom.io 并由基金会侧上传至前述Gitee仓。您可以使用md、word、txt格式提交您的译文，译文的文件标题请参照示例【GPL-2.0翻译-张三-20211231】；同时，请您务必在译文文件首页顶部注明  **_本人承诺，该译文系XXX的原创翻译。本人同意，一旦被开放原子开源基金会开源许可证翻译项目选为终版译本，本人将以CC0协议贡献至公有领域。_**  
+请您将开源许可证译文投稿至 Translation@openatom.io 邮件列表，基金会侧将定期上传译文投稿至项目Gitee仓库中进行展示。基金会欢迎您以实名、匿名或化名形式参与本项目。在本项目中，您的邮箱地址是我们识别您身份并与您联系的重要渠道，请您保持关注。
+您可以使用md、word、txt格式提交您的译文，译文的文件标题请参照示例 **GPL-2.0翻译-张三-20211231** ；同时，请您务必在译文文件首页顶部注明  **_本人承诺，该译文系XXX的原创翻译。本人同意，一旦被开放原子开源基金会开源许可证翻译项目选为终版译本，本人将以CC0协议贡献至公有领域。_**  
 
 ## 译文征稿截止日
 (注：下述“[]”内的内容为SPDX许可证缩写)
@@ -41,6 +42,10 @@
 8.[LGPL-3.0] GNU Lesser General Public License, version 3
 9.[MIT] MIT license
 10.[MPL-2.0] Mozilla Public License 2.0
+11.[CDDL-1.0] Common Development and Distribution License 1.0
+12.[EPL-2.0] Eclipse Public License 2.0
+13.[CC0 1.0] Creative Commons Zero v1.0 Universal
+
 ```
 
 
@@ -69,7 +74,6 @@
 
 第三阶段：2022年10月30日为如下其他许可证及已被取代的许可证译文的征稿截止日。
 
-其他许可证：
 
 ```
 30.[0BSD] 0-clause BSD License
@@ -82,13 +86,6 @@
 37.[QPL-1.0] Q Public License
 38.[UPL] Universal Permissive License
 39.[Zlib] zlib/libpng license
-```
-
-
-已被取代的许可证：
-
-
-```
 40.[Apache-1.1] Apache Software License 1.1
 41.[Artistic-1.0] Artistic license 1.0
 42.[CPL-1.0] Common Public License 1.0
