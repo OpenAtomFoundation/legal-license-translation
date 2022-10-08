@@ -1,4 +1,5 @@
-注：该译文作者为Peaksol，译文系原样复制于：https://codeberg.org/Peaksol/licenses-translated/raw/branch/master/src/gplv3-zh.md 。关联issue为#I5U3TL，投稿声明详见 https://gitee.com/OpenAtomFoundation/legal-license-translation/issues/I5U3TL 
+ _注：该译文作者为Peaksol，译文系原样复制于：https://codeberg.org/Peaksol/licenses-translated/raw/branch/master/src/gplv3-zh.md 。关联issue为#I5U3TL，投稿声明详见 https://gitee.com/OpenAtomFoundation/legal-license-translation/issues/I5U3TL _ 
+
 
 
 > This is an unofficial translation of the GNU General Public License into Simplified Chinese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for software that uses the GNU GPL—only the original English text of the GNU GPL does that. However, we hope that this translation will help Simplified Chinese speakers understand the GNU GPL better. You may publish this translation, modified or unmodified, only under the terms at http://www.gnu.org/licenses/translations.html.
