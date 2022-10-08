@@ -1,4 +1,4 @@
-注：本译文作者为Peaksol，译文系原样复制于：https://codeberg.org/Peaksol/licenses-translated/raw/branch/master/src/bsd-3-clause-license-zh.md 。关联issue为#I5U3TL，投稿声明详见该issue https://gitee.com/OpenAtomFoundation/legal-license-translation/issues/I5U3TL
+ _注：本译文作者为Peaksol，译文系原样复制于：https://codeberg.org/Peaksol/licenses-translated/raw/branch/master/src/bsd-3-clause-license-zh.md 。关联issue为#I5U3TL，投稿声明详见该issue https://gitee.com/OpenAtomFoundation/legal-license-translation/issues/I5U3TL_ 
 
 > This is an unofficial translation of the 3-Clause BSD License into Simplified Chinese. It does not legally state the distribution terms for software that uses the 3-Clause BSD License—only the original English text of the 3-Clause BSD License does that. However, we hope that this translation will help Simplified Chinese speakers understand the 3-Clause BSD License better. This translation is licensed under a [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/).
 
