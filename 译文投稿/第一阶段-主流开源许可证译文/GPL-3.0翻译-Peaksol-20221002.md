@@ -1,4 +1,4 @@
- _注：该译文作者为Peaksol，译文系原样复制于：https://codeberg.org/Peaksol/licenses-translated/raw/branch/master/src/gplv3-zh.md 。关联issue为#I5U3TL，投稿声明详见 https://gitee.com/OpenAtomFoundation/legal-license-translation/issues/I5U3TL _ 
+ _注：本译文作者为Peaksol，译文系原样复制于：https://codeberg.org/Peaksol/licenses-translated/raw/branch/master/src/gplv3-zh.md 。关联issue为#I5U3TL，投稿声明详见该issue https://gitee.com/OpenAtomFoundation/legal-license-translation/issues/I5U3TL_ 
 
 
 
