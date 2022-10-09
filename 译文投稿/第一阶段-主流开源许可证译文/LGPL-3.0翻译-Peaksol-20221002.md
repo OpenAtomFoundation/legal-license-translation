@@ -1,3 +1,6 @@
+_注：本译文作者为Peaksol，投稿声明详见关联issue：https://gitee.com/OpenAtomFoundation/legal-license-translation/issues/I5U3TL 译文系原样复制于：https://codeberg.org/Peaksol/licenses-translated/src/branch/master/src/lgplv3-zh.md 如下文_ 
+
+
 > This is an unofficial translation of the GNU Lesser General Public License into Simplified Chinese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for software that uses the GNU LGPL—only the original English text of the GNU LGPL does that. However, we hope that this translation will help Simplified Chinese speakers understand the GNU LGPL better. You may publish this translation, modified or unmodified, only under the terms at http://www.gnu.org/licenses/translations.html.
 
 > 这是 GNU 宽通用公共许可证（GNU LGPL）的非正式简体中文翻译。它并未被自由软件基金会发行，也不是使用 GNU LGPL 软件的发布法律声明——只有 GNU LGPL 的原始英文版才有法律意义。不过，我们希望该翻译能够帮助简体中文用户更好地理解 GNU LGPL。你可以发布本翻译或其修改版，前提是要遵守此处的条款：http://www.gnu.org/licenses/translations.html。
