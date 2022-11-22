@@ -12,9 +12,9 @@ To provide reliable and publicly available Chinese versions of open source licen
 
 ## Submission 
 
-(1) You can submit your translation in MarkDown files on the [submission page](https://gitee.com/OpenAtomFoundation/legal-license-translation/tree/master/%E8%AF%91%E6%96%87%E6%8A%95%E7%A8%BF) of the program’s official repository. To name your file, please use the format below: [SDPX License Abbreviation] Translation - [Your Name] - [Date of Submission/YYYYMMDD]. Along with the translation file, please kindly include a Statement of Contribution: I, [Your Name], hereby declare that this translation is my original work. If it is selected by the OpenAtom Translation Program as the final version, I agree to contribute it to the public domain under the Creative Commons Zero License. Without the Statement of Contribution, submissions will be considered invalid.
+(1) You can submit your translation(s) files in MarkDown or Word form to the [submission repository](https://gitee.com/OpenAtomFoundation/legal-license-translation/tree/master/%E8%AF%91%E6%96%87%E6%8A%95%E7%A8%BF) (In general, fork this repo, then pull requests). To name your file, please use the format below: [SDPX License Abbreviation] Translation - [Your Name] - [Date of Submission/YYYYMMDD]. Along with the translation file, **please kindly include a Statement of Contribution: I, [Your Name], hereby declare that this translation is my original work. If it is selected by the OpenAtom Translation Program as the final version, I agree to contribute it to the public domain under the Creative Commons Zero License.** Without such Statement, the submissions will be considered invalid.
 
-(2) You can also send your translation to Translation@openatom.io. We will regularly add new translations to the program’s official repository. Please attach your translation in MarkDown file (preferred), word document, or txt document in the email. To name your file, please use the format below: [SDPX License Abbreviation] Translation-[Your Name] - [Date of Submission/YYYYMMDD]. Please kindly include a Statement of Contribution at the top of the first page of your translation text: I, [Your Name], hereby declare that this translation is my original work. If it is selected by the OpenAtom Translation Program as the final version, I agree to contribute it to the public domain under the Creative Commons Zero License. Without the Statement of Contribution, submissions will be considered invalid.
+(2) You can also send your translation(s) files to Translation@openatom.io. We will regularly add new translations to the [submission repository](https://gitee.com/OpenAtomFoundation/legal-license-translation/tree/master/%E8%AF%91%E6%96%87%E6%8A%95%E7%A8%BF). Please attach your translation in MarkDown files (preferred), word document, or txt document in the email. To name your file, please use the format below: [SDPX License Abbreviation] Translation-[Your Name] - [Date of Submission/YYYYMMDD]. **Please kindly include a Statement of Contribution at the top of the first page of your translation text: I, [Your Name], hereby declare that this translation is my original work. If it is selected by the OpenAtom Translation Program as the final version, I agree to contribute it to the public domain under the Creative Commons Zero License.** Without sucht statement, the submissions will be considered invalid.
 
 
 ## License categories
@@ -33,7 +33,6 @@ Category 1: popular and widely-used or with strong communities
 8.[MPL-2.0] Mozilla Public License 2.0
 9.[EPL-2.0] Eclipse Public License 2.0
 10.[CDDL-1.0] Common Development and Distribution License 1.0
-
 ```
 
 Category 2: special purposes licenses.
@@ -53,7 +52,6 @@ Category 2: special purposes licenses.
 22.[CERN-OHL-P-2.0] CERN Open Hardware Licence Version 2 - Permissive
 23.[CERN-OHL-W-2.0] CERN Open Hardware Licence Version 2 - Weakly Reciprocal
 24.[CERN-OHL-S-2.0] CERN Open Hardware Licence Version 2 - Strongly Reciprocal
-
 ```
 
 Category 3: other licenses and superseded licenses listed below.
@@ -87,7 +85,7 @@ Category 3: other licenses and superseded licenses listed below.
 50.[ZPL-2.0] Zope Public License 2.0
 ```
 
-_Category 4: any [other licenses](https://opensource.org/licenses/category) not mentioned above, also the final deadline for the program._ 
+Category 4: any [other licenses](https://opensource.org/licenses/category) not mentioned above, also the final deadline for the program.
 
 
 ## Translation Review
@@ -96,7 +94,7 @@ The expert panel will start the translation review for the License of which ther
 
 The translation with the most votes will be chosen as the draft for the final version by the expert panel. The translation will be made available to the public for at least two weeks to gather comments and suggestions from public, which will then be sent to the expert panel via emails, WeChat group chats, and online meetings for further review and revision. The final version will be released and contributed to the public domain under the Creative Commons Zero License (CC0).
 
-For any suggestions or questions concerning the submission or the review, please contact us at Translation@openatom.io. We would be grateful to hear from you.
+_For any suggestions or questions concerning the submission or the review, please contact us at Translation@openatom.io. Thank you!_
 
 
 ## Review experts
