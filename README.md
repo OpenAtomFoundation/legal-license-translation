@@ -51,7 +51,6 @@
 
 ```
 
-
 第二类别：特定用途许可证
 
 
@@ -73,36 +72,24 @@
 
 ```
 
-第三类别：其他许可证及已被取代的许可证
+第三类别：已被取代的许可证
 
 
 ```
-25.[0BSD] 0-clause BSD License
-26.[BSD-1-Clause] 1-clause BSD License
-27.[LGPL-2.0] GNU Library General Public License, version 2
-28.[LGPL-2.1] GNU Lesser General Public License, version 2.1
-29.[APL-1.0] Adaptive Public License
-30.[Artistic-2.0] Artistic license 2.0
-31.[0BSD] Free Public License 1.0.0
-32.[MIT-0] MIT No Attribution License
-33.[OSL-3.0] Open Software License
-34.[QPL-1.0] Q Public License
-35.[UPL] Universal Permissive License
-36.[Zlib] zlib/libpng license
-37.[Apache-1.1] Apache Software License 1.1
-38.[Artistic-1.0] Artistic license 1.0
-39.[CPL-1.0] Common Public License 1.0
-40.[EPL-1.0] Eclipse Public License 1.0
-41.[ECL-1.0] Educational Community License, Version 1.0
-42.[EFL-1.0] Eiffel Forum License V1.0
-43.[LPL-1.0] Lucent Public License ("Plan9"), version 1.0
-44.[MPL-1.0] Mozilla Public License 1.0
-45.[MPL-1.1] Mozilla Public License 1.1
-46.[OSL-1.0] Open Software License 1.0
-47.[OSL-2.1] Open Software License 2.1
-48.[PHP-3.0] PHP License 3.0
-49.[RPL-1.1] Reciprocal Public License, version 1.1
-50.[ZPL-2.0] Zope Public License 2.0
+25.[Apache-1.1] Apache Software License 1.1
+26.[Artistic-1.0] Artistic license 1.0
+27.[CPL-1.0] Common Public License 1.0
+28.[EPL-1.0] Eclipse Public License 1.0
+29.[ECL-1.0] Educational Community License, Version 1.0
+30.[EFL-1.0] Eiffel Forum License V1.0
+31.[LPL-1.0] Lucent Public License ("Plan9"), version 1.0
+32.[MPL-1.0] Mozilla Public License 1.0
+33.[MPL-1.1] Mozilla Public License 1.1
+34.[OSL-1.0] Open Software License 1.0
+35.[OSL-2.1] Open Software License 2.1
+36.[PHP-3.0] PHP License 3.0
+37.[RPL-1.1] Reciprocal Public License, version 1.1
+38.[ZPL-2.0] Zope Public License 2.0
 ```
 
 
@@ -117,9 +104,6 @@
  _如对以上许可证译文或其评审有建议或异议，欢迎联系 Translation@openatom.io ，非常感谢！_ 
 
 ## 致谢及推广方式
-（1）开放原子开源基金会向评审专家及入选译文投稿人颁发证书及感谢信：
-- 评审专家：“**源译识-开源许可证评审专家**”证书及感谢信；
-- 最终入选译文投稿人：“**源译识-【许可证名称】开源许可证译者**”证书及感谢信
-- 译文投稿人：纪念奖品及感谢信
+（1） **我们非常感谢[Lotus](http://gitee.com/heartoflight)、[Vanessa](http://gitee.com/vanessaguo)、[Peaksol](http://gitee.com/peaksol)、[野行僧](http://gitee.com/gzkoala)、[迷糊](http://gitee.com/xriqc)、[ZhaoZhenHua](http://gitee.com/richzhao409)、Sikkim七位译者在2022年的贡献！** 基金会将向评审专家、投稿人、最终译文投稿人颁发相关证书及感谢信。
 
-（2）拟在开放原子开源基金会官方网站及官方微信公众号发布最终获选译文，制作合辑并推广；拟推荐OSI、Linux基金会、Eclipse基金会等许可证发布平台链接发布。
+（2）拟在基金会官方网站及官方微信公众号发布最终获选译文，制作合辑并推广；拟推荐OSI、Linux基金会、Eclipse基金会等许可证发布平台链接发布。
