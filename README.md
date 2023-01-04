@@ -1,10 +1,10 @@
 # 源译识 | 征集开源许可证中文译文，欢迎大家译起来！
 
-## 活动介绍
-当前，除木兰（Mulan）系列许可证采用中英双语版本正式发布外，主流的开源许可证大多使用英语、甚至专业化法律英语文本发布，这对以汉语为母语的开发者在理解、使用相关开源许可证时形成了一定的语言障碍；而目前主流开源许可证并无经审核发布的中文译本。开放原子开源基金会发起的本开源法律公益活动拟通过公开征集、开放讨论、权威评审的方式，以基金会名义发布公开可用的、可信赖的中文译本，降低开源许可证的理解门槛。即日起面向征集来源包括但不限于高校学生、企业开发者、个人开发者以及广大的开源爱好者，欢迎您以实名、匿名或化名投稿参与。
+## 项目介绍
+当前，除木兰（Mulan）系列许可证采用中英双语版本正式发布外，主流的开源许可证大多使用英语、甚至专业化法律英语文本发布，这对以汉语为母语的开发者在理解、使用相关开源许可证时形成了一定的语言障碍；而目前主流开源许可证并无经审核发布的中文译本。开放原子开源基金会发起的本开源法律公益项目拟通过公开征稿、开放讨论、专家评审的方式，以基金会名义发布公开可用的、可信赖的中文译本，降低开源许可证的理解门槛。即日起面向征集来源包括但不限于高校学生、企业开发者、个人开发者以及广大的开源爱好者，欢迎您以实名、匿名或化名投稿参与。
 
-## 活动目标
-为开发者提供公开可用的、可信赖的开源许可证中文译本。在共译中寻求开源的共识。
+## 项目目标
+为开发者提供公开可用的、可信赖的开源许可证中文译本。在共译中寻求开源的共识！
 
 ## 译文评审专家组
 
@@ -22,11 +22,11 @@
 
 ## 投稿方式
 
-基金会欢迎您以实名、匿名或化名形式参与本活动。在本活动中，您的Gitee账号和/或邮箱地址是我们识别您身份并与您联系的重要渠道，请您保持关注。
+基金会欢迎您以实名或昵称参与本翻译项目。您的Gitee账号和/或邮箱地址是我们识别您身份并与您联系的重要渠道，请您保持关注。
 
-（1）您可以在许可证[译文投递页面](https://gitee.com/OpenAtomFoundation/legal-license-translation/tree/master/%E8%AF%91%E6%96%87%E6%8A%95%E7%A8%BF)提交md格式或word格式的译文（通常需要先fork再pr），文件标题请参考使用以下示例格式：【SPDX许可证缩写】译文-【您的名字】-【提交日期YYYYMMDD】；同时**请随译文一并提交您的贡献声明：“本人【张三】承诺，该译文由本人独立翻译。该译文如被选为终版译本，本人同意该译文以CC0协议贡献至公有领域。” 请注意：未做贡献声明的译文将不被视为有效投稿**。
+（1）您可以在许可证[译文投稿](http://gitee.com/OpenAtomFoundation/legal-license-translation/tree/master/%E8%AF%91%E6%96%87%E6%8A%95%E7%A8%BF)页面提交md或word格式的译文（通常需要先fork仓库再提交pr），文件标题请参考使用以下示例格式：【SPDX许可证缩写】译文-【您的名字】-【提交日期YYYYMMDD】；同时**请随译文一并提交您的贡献声明：“本人【张三】承诺，该译文由本人独立翻译。该译文如被选为终版译本，本人同意该译文以CC0协议贡献至公有领域。” 请注意：未做贡献声明的译文将不被视为有效投稿**。
 
-（2）您也可将开源许可证译文直接投稿至 Translation@openatom.io 邮件列表，基金会侧将定期上传译文投稿至项目Gitee仓库中进行展示。请在邮件中随附您md（推荐）、word、txt格式的译文，译文的文件标题请参考使用以下示例格式：【SPDX许可证缩写】译文-【您的名字】-【提交日期YYYYMMDD】；同时**请在译文文件的首页顶部标注您的贡献声明：“本人【张三】承诺，该译文由本人独立翻译。该译文如被选为终版译本，本人同意该译文以CC0协议贡献至公有领域。” 请注意：未做贡献声明的译文将不被视为有效投稿**。
+（2）您也可将开源许可证译文直接投稿至 Translation@openatom.io 邮件列表，基金会侧将定期上传译文投稿至Gitee/GitHub上的投稿仓库中进行展示。请在邮件中随附您md（推荐）、word、txt格式的译文，译文的文件标题请参考使用以下示例格式：【SPDX许可证缩写】译文-【您的名字】-【提交日期YYYYMMDD】；同时**请在译文文件的首页顶部标注您的贡献声明：“本人【张三】承诺，该译文由本人独立翻译。该译文如被选为终版译本，本人同意该译文以CC0协议贡献至公有领域。” 请注意：未做贡献声明的译文将不被视为有效投稿**。
 
 ## 译文征稿分类
 (注：下述“[]”内的内容为SPDX许可证缩写)
@@ -51,7 +51,6 @@
 
 ```
 
-
 第二类别：特定用途许可证
 
 
@@ -73,36 +72,24 @@
 
 ```
 
-第三类别：其他许可证及已被取代的许可证
+第三类别：已被取代的许可证
 
 
 ```
-25.[0BSD] 0-clause BSD License
-26.[BSD-1-Clause] 1-clause BSD License
-27.[LGPL-2.0] GNU Library General Public License, version 2
-28.[LGPL-2.1] GNU Lesser General Public License, version 2.1
-29.[APL-1.0] Adaptive Public License
-30.[Artistic-2.0] Artistic license 2.0
-31.[0BSD] Free Public License 1.0.0
-32.[MIT-0] MIT No Attribution License
-33.[OSL-3.0] Open Software License
-34.[QPL-1.0] Q Public License
-35.[UPL] Universal Permissive License
-36.[Zlib] zlib/libpng license
-37.[Apache-1.1] Apache Software License 1.1
-38.[Artistic-1.0] Artistic license 1.0
-39.[CPL-1.0] Common Public License 1.0
-40.[EPL-1.0] Eclipse Public License 1.0
-41.[ECL-1.0] Educational Community License, Version 1.0
-42.[EFL-1.0] Eiffel Forum License V1.0
-43.[LPL-1.0] Lucent Public License ("Plan9"), version 1.0
-44.[MPL-1.0] Mozilla Public License 1.0
-45.[MPL-1.1] Mozilla Public License 1.1
-46.[OSL-1.0] Open Software License 1.0
-47.[OSL-2.1] Open Software License 2.1
-48.[PHP-3.0] PHP License 3.0
-49.[RPL-1.1] Reciprocal Public License, version 1.1
-50.[ZPL-2.0] Zope Public License 2.0
+25.[Apache-1.1] Apache Software License 1.1
+26.[Artistic-1.0] Artistic license 1.0
+27.[CPL-1.0] Common Public License 1.0
+28.[EPL-1.0] Eclipse Public License 1.0
+29.[ECL-1.0] Educational Community License, Version 1.0
+30.[EFL-1.0] Eiffel Forum License V1.0
+31.[LPL-1.0] Lucent Public License ("Plan9"), version 1.0
+32.[MPL-1.0] Mozilla Public License 1.0
+33.[MPL-1.1] Mozilla Public License 1.1
+34.[OSL-1.0] Open Software License 1.0
+35.[OSL-2.1] Open Software License 2.1
+36.[PHP-3.0] PHP License 3.0
+37.[RPL-1.1] Reciprocal Public License, version 1.1
+38.[ZPL-2.0] Zope Public License 2.0
 ```
 
 
@@ -117,9 +104,6 @@
  _如对以上许可证译文或其评审有建议或异议，欢迎联系 Translation@openatom.io ，非常感谢！_ 
 
 ## 致谢及推广方式
-（1）开放原子开源基金会向评审专家及入选译文投稿人颁发证书及感谢信：
-- 评审专家：“**源译识-开源许可证评审专家**”证书及感谢信；
-- 最终入选译文投稿人：“**源译识-【许可证名称】开源许可证译者**”证书及感谢信
-- 译文投稿人：纪念奖品及感谢信
+（1） **我们非常感谢[Lotus](http://gitee.com/heartoflight)、[Vanessa](http://gitee.com/vanessaguo)、[Peaksol](http://gitee.com/peaksol)、[野行僧](http://gitee.com/gzkoala)、[迷糊](http://gitee.com/xriqc)、[ZhaoZhenHua](http://gitee.com/richzhao409)、Sikkim七位译者在2022年的贡献！** 基金会将向评审专家、投稿人、最终译文投稿人颁发相关证书及感谢信。
 
-（2）拟在开放原子开源基金会官方网站及官方微信公众号发布最终获选译文，制作合辑并推广；拟推荐OSI、Linux基金会、Eclipse基金会等许可证发布平台链接发布。
+（2）拟在基金会官方网站及官方微信公众号发布最终获选译文，制作合辑并推广；拟推荐OSI、Linux基金会、Eclipse基金会等许可证发布平台链接发布。
