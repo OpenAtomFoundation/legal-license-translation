@@ -1,4 +1,5 @@
-_注：本译文作者为Peaksol，投稿声明详见关联issue：https://gitee.com/OpenAtomFoundation/legal-license-translation/issues/I5U3TL以及 https://gitee.com/OpenAtomFoundation/legal-license-translation/issues/I696L9，译文系原样复制于：https://licenses.peaksol.org/agplv3-zh.html 如下文_
+_注：本译文作者为Peaksol，投稿声明详见关联issue：https://gitee.com/OpenAtomFoundation/legal-license-translation/issues/I5U3TL 以及 
+ https://gitee.com/OpenAtomFoundation/legal-license-translation/issues/I696L9 ，译文系原样复制于：https://licenses.peaksol.org/agplv3-zh.html 如下文_
 
 > This is an unofficial translation of the GNU Affero General Public License into Simplified Chinese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for software that uses the GNU AGPL—only the original English text of the GNU AGPL does that. However, we hope that this translation will help Simplified Chinese speakers understand the GNU AGPL better. You may publish this translation, modified or unmodified, only under the terms at http://www.gnu.org/licenses/translations.html.
 
