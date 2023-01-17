@@ -1,4 +1,4 @@
-_注：该译文系原样复制于：https://www.chinasona.org/gnu/gnufdl-v13-tc.html ，译者为Samuel Chong_ 
+_注：**FDL-1.3不在OSI审批的开源许可证之列，其用于手册、教材或其它文档上。** 该译文系原样复制于：https://www.chinasona.org/gnu/gnufdl-v13-tc.html ，译者为Samuel Chong_ 
 
 ## GNU 自由文本授權 (繁體中文翻譯版)
 第1.3版
