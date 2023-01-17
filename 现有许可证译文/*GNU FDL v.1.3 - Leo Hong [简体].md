@@ -1,4 +1,4 @@
- _注：该译文系原样复制于：http://www.thebigfly.com/gnu/FDLv1.3/ ，译者为Leo Hong_ 
+ _注：**FDL-1.3不在OSI审批的开源许可证之列，其用于手册、教材或其它文档上。** 该译文系原样复制于：http://www.thebigfly.com/gnu/FDLv1.3/ ，译者为Leo Hong_ 
 
 ## GNU 自由文本授权 (简体中文翻译版)
 
