@@ -1,4 +1,4 @@
-_注：本译文作者为Peaksol，投稿声明详见关联issue：https://gitee.com/OpenAtomFoundation/legal-license-translation/issues/I696L9 译文系原样复制于：https://codeberg.org/Peaksol/licenses-translated/raw/branch/master/src/fdlv1.3-zh.md 如下文_
+_注： **FDL-1.3不在OSI审批的开源许可证之列，其用于手册、教材或其它文档上。** 本译文作者为Peaksol，投稿声明详见关联issue：https://gitee.com/OpenAtomFoundation/legal-license-translation/issues/I696L9 译文系原样复制于：https://codeberg.org/Peaksol/licenses-translated/raw/branch/master/src/fdlv1.3-zh.md 如下文_
 
 > This is an unofficial translation of the GNU Free Documentation License into Simplified Chinese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for documents that use the GNU FDL—only the original English text of the GNU FDL does that. However, we hope that this translation will help Simplified Chinese speakers understand the GNU FDL better. You may publish this translation, modified or unmodified, only under the terms at http://www.gnu.org/licenses/translations.html.
 
