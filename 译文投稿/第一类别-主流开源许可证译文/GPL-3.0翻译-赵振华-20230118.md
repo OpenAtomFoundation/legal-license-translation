@@ -1,6 +1,6 @@
  **注：** 本译文作者为赵振华。投稿声明详见关联issue：<https://gitee.com/OpenAtomFoundation/legal-license-translation/issues/I5U3TL> 译文系原样复制于：<https://github.com/zRich/gpl/blob/main/gplv3/gplv3.md>
 
-# GNU通用公开许可证
+# GNU通用公共许可证
 
 第3版，2007年6月29日
 
