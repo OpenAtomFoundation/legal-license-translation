@@ -1,0 +1,21 @@
+评审背景
+
+截至2023年2月26日，本项目已累计征集到35篇译文投稿，主要涉及GPL 2.0、GPL 3.0、LGPL 3.0、AGPL 3.0等GPL系列许可证，Apache 2.0、MIT、BSD-3-clause、BSD-2-clause、BSD-1-clause、0BSD、ISC、Apache 1.1等宽松型许可证；也涵盖了EPL 2.0、MPL 2.0等弱限制型许可证，CERN-OHL-P-2.0等开放硬件许可证，FDL-1.3、OFL-1.1等涉及开源文档、开源字体的许可证，以及CeCILL-2.1、LiLiQ-P-1.1等法语拟制的许可证。
+
+继2023年1月15日对BSD系列许可证、MIT许可证进行专家评审之后，本项目于2月26日组织专家对同为宽松型许可证的Apache 2.0许可证译文进行了评审。关于Apache 2.0译文，我们首先对野行僧、Sara、Lotus、Vanessa四位积极参与投稿的译者表示感谢！
+
+评审情况
+
+我们非常荣幸地邀请到《英汉法律用语大词典》的主编宋雷教授作为开源许可证译文评审专家加入到基金会“源译识”开源公益翻译项目中。宋雷教授曾任西南政法大学外语学院院长，是我国法律外语界知名专家、中国翻译协会“资深翻译家”荣誉称号获得者。
+
+本次参与投票与评审讨论的专家有：
+● 卫sir：开源“圣经”《大教堂与集市》中文版译者、人话版许可证中文版系列作者
+● 沈芬律师：华为资深开源法律专家、“木兰”双语开源许可证主要作者之一
+● 宋雷教授：《英汉法律用语大词典》主编、学术方向为法律语言学、法律经贸英语翻译理论和实践
+● 张平教授：北京大学法学院教授、《开源规则：案例、许可证及开源组织》主编，参与起草了中国第一个开源许可证（启智许可证）
+
+经会前对投稿译文的比稿投票，专家们初步选定了供讨论修订的评审稿，并参考结合其他投稿对译文进行了逐句讨论确认。在本次Apache 2.0的译文评审中，专家们从译文准确性、对应性、易读性等多维度对重点词句的翻译展开讨论。与会专家们一方面对“legal entity” “non-exclusive” “a cross-claim or counterclaim in a lawsuit” “contributory patent infringement” “applicable law” “indemnify”等基础法律术语的译法进行了讨论与统一。对于法律术语，对照考虑了英汉法律词典的规范译法（例如《英汉法律用语大词典》《元照美英法词典》），并结合法律实务界的惯用表达，力求在准确翻译的基础上能够便于社区和开发者理解。另一方面，与会专家也重点对“on behalf of whom” “publicly perform” “transfer the Work” “to which such contribution(s) was submitted” “if and wherever such third-party notices normally appear” “may have executed”以及“acceptance of support, warranty, indemnity, or other liability obligations and/or rights”等词句涵义进行了重点推敲讨论，但由于与会专家对在许可证原文部分涵义或指代的理解上存在一定分歧，本次会上暂未形成译文审定稿。后续我们将在与Apache 2.0许可证文本管理方Apache软件基金会联系确认后进一步确认定稿。
+
+会后咨询
+
+鉴于评审专家对Apache 2.0的译文部分词句的理解尚未达成一致意见，我们在Apache官网上的在LEGAL JIRA Space向Apache软件基金会进行了咨询。得到反馈如下。
