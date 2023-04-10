@@ -16,7 +16,7 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION **使用、复制�
 
  **"License"** shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
 
- **“许可证”** 系指本文档第1节至第9节所定义的使用、复制和分发的条款和条件。
+ **“本许可证”** 系指本文档第1节至第9节所定义的使用、复制和分发的条款和条件。
 
  **"Licensor"** shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
 
@@ -40,7 +40,7 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION **使用、复制�
 
  **"Work"**  shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).
 
- **“作品”** 系指在本许可证下无论以源码形式或目标码形式提供的原创作品，如作品中所包含或附加的版权声明所述（示例请见下文附录）。
+ **“本作品”** 系指在本许可证下无论以源码形式或目标码形式提供的原创作品，如作品中所包含或附加的版权声明所述（示例请见下文附录）。
 
  **"Derivative Works"** shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
 
@@ -132,7 +132,7 @@ END OF TERMS AND CONDITIONS **条款和条件结束**
 
 Include a copy of the Apache License, typically in a file called LICENSE, in your work, and consider also including a NOTICE file that references the License.
 
-在您作品中包含Apache许可证的副本，通常在名为“LICENSE”的文件中，并考虑在您作品中包含一个引用该许可证的“NOTICE”文件。
+在您作品中包含Apache许可证的副本，通常在名为 **“LICENSE** ”的文件中，并考虑在您作品中包含一个引用该许可证的 **“NOTICE”** 文件。
 
 To apply the Apache License to your work, attach the following boilerplate notice, with the fields enclosed by brackets "[]" replaced with your own identifying information. (Don't include the brackets!) The text should be enclosed in the appropriate comment syntax for the file format. We also recommend that a file or class name and description of purpose be included on the same "printed page" as the copyright notice for easier identification within third-party archives.
 
