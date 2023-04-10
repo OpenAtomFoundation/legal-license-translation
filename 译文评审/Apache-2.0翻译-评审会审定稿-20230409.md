@@ -10,17 +10,15 @@ SPDX short identifier / SPDX短标识符：Apache-2.0
 
 -------------------------------------------------------------------------------------------------------
 
-TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
- 
-**使用、复制和分发的条款和条件** 
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION **使用、复制和分发的条款和条件** 
 
  **1. Definitions.定义** 
 
- **"License" ** shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
+ **"License"** shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
 
  **“许可证”** 系指本文档第1节至第9节所定义的使用、复制和分发的条款和条件。
 
- **"Licensor" ** shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+ **"Licensor"** shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
 
  **“许可方”** 系指授予本许可证的版权所有者或经其授权的实体。
 
@@ -32,11 +30,11 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
  **“您”** （或 **“您的”** ）系指行使本许可证下许可的个人或法人实体。
 
- **"Source" ** form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+ **"Source"** form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
 
  **“源码”** 形式系指进行修改的首选形式，包括但不限于软件源代码、源文档和配置文件。
 
- **"Object" ** form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+ **"Object"** form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
 
  **“目标码”** 形式系指对源码形式进行机器转换或翻译而产生的任何形式，包括但不限于已编译的目标代码、生成的文档和转换的其他媒体类型。
 
@@ -44,11 +42,11 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
  **“作品”** 系指在本许可证下无论以源码形式或目标码形式提供的原创作品，如作品中所包含或附加的版权声明所述（示例请见下文附录）。
 
- **"Derivative Works" ** shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
+ **"Derivative Works"** shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
 
  **“衍生作品”** 系指基于（或衍生于）本作品的任何作品，无论是源码形式或目标码形式，且对本作品的编辑修订、注释、阐述或其他修改在整体上形成原创作品。就本许可证而言，衍生作品不包括与本作品及其衍生作品仍保持分离或仅通过接口连接（或以名称绑定）的作品。
 
- **"Contribution" ** shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition,  **"submitted" ** means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
+ **"Contribution"** shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition,  **"submitted"** means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
 
  **“贡献”** 系指由版权所有者或由经其授权的个人或法人实体有意提交给许可方以纳入本作品的任何原创作品，包括本作品的原始版本和对本作品的任何修改或添加或其衍生作品。就本条定义而言， **“提交”** 系指发送给许可方或其代表的任何电子、口头或书面形式的通信内容，包括但不限于为供讨论和改进本作品目的，发送到许可方管理的、或代表许可方的电子邮件列表、源代码控制系统和发布跟踪系统的通信内容，但不包括版权所有者明确标注或以其他方式书面指定为“非贡献”的通信内容。
 
@@ -111,7 +109,7 @@ This License does not grant permission to use the trade names, trademarks, servi
 
 Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
 
-除非所适用法律要求或经书面同意，许可方就本作品（及每个贡献者就其贡献）是 **“按原样”** 提供， **没有任何明示或默示的保证或条件** ，包括但不限于关 **于权属、不侵权、适销性或特定目的适用性** 的任何保证或条件。您自行负责确认使用或再分发本作品的适当性，并承担与您行使本许可证下所授许可相关的任何风险。
+除非所适用法律要求或经书面同意，许可方就本作品（及每个贡献者就其贡献）是 **“按原样”** 提供， **没有任何明示或默示的保证或条件** ，包括但不限于关于 **权属、不侵权、适销性或特定目的适用性** 的任何保证或条件。您自行负责确认使用或再分发本作品的适当性，并承担与您行使本许可证下所授许可相关的任何风险。
 
  **8.Limitation of Liability.责任限制** 
 
@@ -125,9 +123,10 @@ While redistributing the Work or Derivative Works thereof, You may choose to off
 
 在再分发本作品或其衍生作品时，您可以选择接受支持、保证、补偿或其他符合本许可证的责任义务和/或权利，并为之收取费用。然而，在接受该义务时，您只能代表您自己行事且责任完全由您承担，不得代表任何其他贡献者，且在其他贡献者因您接受此类保证或附加责任而产生赔偿责任或主张时，您必须同意补偿、辩护并使该贡献者免受该损害。
 
--------------------------------------------------------------------------------------------------------
 
 END OF TERMS AND CONDITIONS **条款和条件结束** 
+
+-------------------------------------------------------------------------------------------------------
 
  **APPENDIX: How to apply the Apache License to your work 附录：如何将Apache许可证应用到您的作品中** 
 
