@@ -7,53 +7,54 @@ http://www.apache.org/licenses/
 
 SPDX short identifier / SPDX短标识符：Apache-2.0
 
+
 -------------------------------------------------------------------------------------------------------
 
-使用、复制和分发的条款和条件
-
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+ 
+**使用、复制和分发的条款和条件** 
 
  **1. Definitions.定义** 
 
-"License" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
+ **"License" ** shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
 
-“许可证”系指本文档第1节至第9节所定义的使用、复制和分发的条款和条件。
+ **“许可证”** 系指本文档第1节至第9节所定义的使用、复制和分发的条款和条件。
 
-"Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+ **"Licensor" ** shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
 
-“许可方”系指授予本许可证的版权所有者或经其授权的实体。
+ **“许可方”** 系指授予本许可证的版权所有者或经其授权的实体。
 
-"Legal Entity" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+ **"Legal Entity"**  shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition,  **"control"**  means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
 
-“法人实体”系指行为实体及其他控制该实体、受该实体控制或与该实体在共同控制之下的实体的集合。就本条定义而言，“控制”指(i)直接或间接地引导或管理该实体的权力，不论通过合同或其他形式；或(ii)拥有百分之五十（50%）或以上流通股的所有权；或(iii)拥有该实体的实益所有权。
+ **“法人实体”** 系指行为实体及其他控制该实体、受该实体控制或与该实体在共同控制之下的实体的集合。就本条定义而言， **“控制”** 指(i)直接或间接地引导或管理该实体的权力，不论通过合同或其他形式；或(ii)拥有百分之五十（50%）或以上流通股的所有权；或(iii)拥有该实体的实益所有权。
 
-"You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
+ **"You"**  (or  **"Your"** ) shall mean an individual or Legal Entity exercising permissions granted by this License.
 
-“您”（或“您的”）系指行使本许可证下许可的个人或法人实体。
+ **“您”** （或 **“您的”** ）系指行使本许可证下许可的个人或法人实体。
 
-"Source" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+ **"Source" ** form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
 
-“源码”形式系指进行修改的首选形式，包括但不限于软件源代码、源文档和配置文件。
+ **“源码”** 形式系指进行修改的首选形式，包括但不限于软件源代码、源文档和配置文件。
 
-"Object" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+ **"Object" ** form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
 
-“目标码”形式系指对源码形式进行机器转换或翻译而产生的任何形式，包括但不限于已编译的目标代码、生成的文档和转换的其他媒体类型。
+ **“目标码”** 形式系指对源码形式进行机器转换或翻译而产生的任何形式，包括但不限于已编译的目标代码、生成的文档和转换的其他媒体类型。
 
-"Work" shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).
+ **"Work"**  shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).
 
-“作品”系指在本许可证下无论以源码形式或目标码形式提供的原创作品，如作品中所包含或附加的版权声明所述（示例请见下文附录）。
+ **“作品”** 系指在本许可证下无论以源码形式或目标码形式提供的原创作品，如作品中所包含或附加的版权声明所述（示例请见下文附录）。
 
-"Derivative Works" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
+ **"Derivative Works" ** shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
 
-“衍生作品”系指基于（或衍生于）本作品的任何作品，无论是源码形式或目标码形式，且对本作品的编辑修订、注释、阐述或其他修改在整体上形成原创作品。就本许可证而言，衍生作品不包括与本作品及其衍生作品仍保持分离或仅通过接口连接（或以名称绑定）的作品。
+ **“衍生作品”** 系指基于（或衍生于）本作品的任何作品，无论是源码形式或目标码形式，且对本作品的编辑修订、注释、阐述或其他修改在整体上形成原创作品。就本许可证而言，衍生作品不包括与本作品及其衍生作品仍保持分离或仅通过接口连接（或以名称绑定）的作品。
 
-"Contribution" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
+ **"Contribution" ** shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition,  **"submitted" ** means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
 
-“贡献”系指由版权所有者或由经其授权的个人或法人实体有意提交给许可方以纳入本作品的任何原创作品，包括本作品的原始版本和对本作品的任何修改或添加或其衍生作品。就本条定义而言，“提交”系指发送给许可方或其代表的任何电子、口头或书面形式的通信内容，包括但不限于为供讨论和改进本作品目的，发送到许可方管理的、或代表许可方的电子邮件列表、源代码控制系统和发布跟踪系统的通信内容，但不包括版权所有者明确标注或以其他方式书面指定为“非贡献”的通信内容。
+ **“贡献”** 系指由版权所有者或由经其授权的个人或法人实体有意提交给许可方以纳入本作品的任何原创作品，包括本作品的原始版本和对本作品的任何修改或添加或其衍生作品。就本条定义而言， **“提交”** 系指发送给许可方或其代表的任何电子、口头或书面形式的通信内容，包括但不限于为供讨论和改进本作品目的，发送到许可方管理的、或代表许可方的电子邮件列表、源代码控制系统和发布跟踪系统的通信内容，但不包括版权所有者明确标注或以其他方式书面指定为“非贡献”的通信内容。
 
-"Contributor" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
+ **"Contributor"**  shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
 
-“贡献者”是指许可方，以及其“贡献”已被许可方接收且许可方代表其将贡献合并入本作品中的任何个人或法人实体。
+ **“贡献者”** 是指许可方，以及其“贡献”已被许可方接收且许可方代表其将贡献合并入本作品中的任何个人或法人实体。
 
  **2.Grant of Copyright License.版权许可的授予** 
 
@@ -86,9 +87,9 @@ Source form of the Work, excluding those notices that do not pertain to any part
 
   您必须在您分发的任何衍生作品的源码形式中，保留来自本作品源码形式的所有版权、专利、商标和权属声明，但与该衍生作品任何部分无关的声明除外；以及
 
-d.If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License.
+d.If the Work includes a  **"NOTICE"**  text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License.
 
-  如果本作品分发时包含“NOTICE”文本文件，则您分发的任何衍生作品必须至少在下述一处位置包含本文件中的署名声明的可读副本，但与该衍生作品任何部分无关的声明除外：在作为衍生作品一部分的NOTICE文本文件中；在与衍生作品一并提供的源码形式或文档中；或在衍生作品生成的显示界面中通常展示第三方声明的任何位置（如有）。NOTICE文件中的内容仅为提供信息，并不修改本许可。您可以在您分发的衍生作品中添加您自己的权属声明，与本作品的NOTICE文本并列或作为其附录，只要该添加的权属声明不被解释为修改本许可。
+  如果本作品分发时包含 **“NOTICE”** 文本文件，则您分发的任何衍生作品必须至少在下述一处位置包含本文件中的署名声明的可读副本，但与该衍生作品任何部分无关的声明除外：在作为衍生作品一部分的NOTICE文本文件中；在与衍生作品一并提供的源码形式或文档中；或在衍生作品生成的显示界面中通常展示第三方声明的任何位置（如有）。NOTICE文件中的内容仅为提供信息，并不修改本许可。您可以在您分发的衍生作品中添加您自己的权属声明，与本作品的NOTICE文本并列或作为其附录，只要该添加的权属声明不被解释为修改本许可。
 
 You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.
 
@@ -110,7 +111,7 @@ This License does not grant permission to use the trade names, trademarks, servi
 
 Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
 
-除非所适用法律要求或经书面同意，许可方就本作品（及每个贡献者就其贡献）是“按原样”提供，没有任何明示或默示的保证或条件，包括但不限于关于权属、不侵权、适销性或特定目的适用性的任何保证或条件。您自行负责确认使用或再分发本作品的适当性，并承担与您行使本许可证下所授许可相关的任何风险。
+除非所适用法律要求或经书面同意，许可方就本作品（及每个贡献者就其贡献）是 **“按原样”** 提供， **没有任何明示或默示的保证或条件** ，包括但不限于关 **于权属、不侵权、适销性或特定目的适用性** 的任何保证或条件。您自行负责确认使用或再分发本作品的适当性，并承担与您行使本许可证下所授许可相关的任何风险。
 
  **8.Limitation of Liability.责任限制** 
 
@@ -124,8 +125,9 @@ While redistributing the Work or Derivative Works thereof, You may choose to off
 
 在再分发本作品或其衍生作品时，您可以选择接受支持、保证、补偿或其他符合本许可证的责任义务和/或权利，并为之收取费用。然而，在接受该义务时，您只能代表您自己行事且责任完全由您承担，不得代表任何其他贡献者，且在其他贡献者因您接受此类保证或附加责任而产生赔偿责任或主张时，您必须同意补偿、辩护并使该贡献者免受该损害。
 
-END OF TERMS AND CONDITIONS
-条款和条件结束
+-------------------------------------------------------------------------------------------------------
+
+END OF TERMS AND CONDITIONS **条款和条件结束** 
 
  **APPENDIX: How to apply the Apache License to your work 附录：如何将Apache许可证应用到您的作品中** 
 
@@ -168,9 +170,6 @@ To apply the Apache License to your work, attach the following boilerplate notic
    没有任何形式的保证或条件，不论明示或默示。
    请查阅本许可证了解有关本许可证下许可和限制的具体要求。
 ```
-
-
--------------------------------------------------------------------------------------------------------
 
 【译者注：以上模板译文仅为便于您理解而翻译，在您的作品中应使用模板英文原文。】
 
