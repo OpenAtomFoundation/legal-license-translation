@@ -91,13 +91,13 @@ d.If the Work includes a  **"NOTICE"**  text file as part of its distribution, t
 
 You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.
 
-您可以对您的修改部分添加您自己的版权声明，并可以就您的修改部分或就任何衍生作品整体提供额外或不同的许可条款和条件以使用、复制或分发，只要您使用、复制和分发本作品符合本许可规定的条件。
+您可以对您修改的部分添加您自己的版权声明，并可以就您修改的部分或任何衍生作品整体提供额外或不同的许可条款和条件以供使用、复制或分发，只要您使用、复制和分发本作品的做法符合本许可规定的条件。
 
  **5.Submission of Contributions.贡献的提交**
  
 Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.
 
-除非您另有明确说明，您向许可方有意提交的任何以纳入本作品的贡献均受本许可证的条款和条件约束，而不带有任何附加条款或条件。尽管有上述规定，本许可证中任何内容均不会取代或修改您可能与许可方另行签署的任何关于该贡献的许可协议的条款。
+除非另有明确说明，您有意向许可方提交且为了纳入本作品的任何贡献，均受本许可证的条款和条件约束，而不带有任何附加条款或条件。尽管有上述规定，本许可证中任何内容，均不会取代或修改您就该贡献可能与许可方另行签署的许可协议的条款。
 
  **6.Trademarks.商标** 
 
