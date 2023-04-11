@@ -64,7 +64,7 @@ Subject to the terms and conditions of this License, each Contributor hereby gra
 
 Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.
 
-受限于本许可证的条款和条件，每个贡献者特此授予您永久的、全球性的、非排他性的、免交易费的、免许可费的、不可撤销的（按本节规定的除外）专利许可，以制造、委托制造、使用、许诺销售、销售、进口及以其他方式转移本作品，该许可仅及于贡献者有权许可且由其贡献本身或由其贡献与其提交时所针对的本作品形成的组合所必然侵犯的专利权利要求。如果您对任何实体提起专利诉讼（包括在法律诉讼中的交叉诉讼主张或反诉主张），主张本作品或纳入本作品的贡献构成专利直接侵权或帮助侵权，则在本许可证下授予您的任何专利许可自该诉讼提起之日起终止。
+受限于本许可证的条款和条件，每个贡献者特此授予您永久的、全球性的、非排他性的、免交易费的、免许可费的、不可撤销的（按本节规定的除外）专利许可，以制造、委托制造、使用、许诺销售、销售、进口及以其他方式转移本作品，该许可仅及于贡献者有权许可且由其贡献本身或由其贡献与其提交时所针对的本作品形成的组合所必然侵犯的专利权利要求。如果您对任何实体提起专利诉讼（包括在法律诉讼中的交叉诉讼主张或反诉主张），主张本作品或纳入本作品的贡献构成专利的直接侵权或帮助侵权，则在本许可证下授予您的任何专利许可自该诉讼提起之日起终止。
 
  **4.Redistribution.再分发** 
 
