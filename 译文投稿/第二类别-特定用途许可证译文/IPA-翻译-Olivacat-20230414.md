@@ -1,10 +1,12 @@
 译者注：IPA Font License Agreement协议目前有英文及日文版本，本翻译参照的英文文本来自：https://opensource.org/license/ipafont-html/ ，日本文本来自：https://moji.or.jp/ipafont/ipafontdownload/ 。因协议中规定“本协议基于日本法律解释”，本译文将主要参照日文文本进行翻译，明显与英文文本有差异的地方，请见标红处。
-
+本人【张三】（邮件地址）承诺，该译文由本人独立翻译。该译文如被选为终版译本，本人同意该译文以CC0协议贡献至公有领域。
 
 IPA Font License Agreement v1.0 (090305)
 IPAフォントライセンスv1.0
 IPA字体许可证协议 v1.0 
-The Licensor provides the Licensed Program (as defined in Article 1 below) under the terms of this license agreement (“Agreement”).  Any use, reproduction or distribution of the Licensed Program, or any exercise of rights under this Agreement by a Recipient (as defined in Article 1 below) constitutes the Recipient’s acceptance of this Agreement.
+
+The Licensor provides the Licensed Program (as defined in Article 1 below)  _**under the**_  terms of this license agreement (“Agreement”).  Any use, reproduction or distribution of the Licensed Program, or any exercise of rights under this Agreement by a Recipient (as defined in Article 1 below) constitutes the Recipient’s acceptance of this Agreement.
+
 許諾者は、この使用許諾（以下「本契約」といいます。）に定める条件の下で、許諾プログラム（1条に定義するところによります。）を提供します。受領者（1条に定義するところによります。）が、許諾プログラムを使用し、複製し、または頒布する行為、その他、本契約に定める権利の利用を行った場合、受領者は本契約に同意したものと見なします。
 许可人根据本许可证协议（下称"协议"）规定的条款提供许可程序（定义见下文第1条）。接收者（定义见下文第1条）使用、复制或发布许可程序，及其他行使本协议规定权利的行为，均视为接收者对本协议的同意。
 Article 1 (Definitions)
