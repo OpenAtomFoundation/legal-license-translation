@@ -2,27 +2,33 @@
 
 ______________________________
 
-- Copyright (c) <dates>, <Copyright Holder> (<URL|email>),
-- with Reserved Font Name <Reserved Font Name>.
-- Copyright (c) <dates>, <additional Copyright Holder> (<URL|email>),
-- with Reserved Font Name <additional Reserved Font Name>.
-- Copyright (c) <dates>, <additional Copyright Holder> (<URL|email>).
-- This Font Software is licensed under the SIL Open Font License, Version 1.1.
-- This license is copied below, and is also available with a FAQ at: https://scripts.sil.org/OFL
 
-- 版权所有 (c) <日期>， <版权持有人> (<URL|邮件>),
-- 附保留字体名称<保留字体名称>。
-- 版权所有 (c) <日期>， <附加版权持有人> (<URL|邮件>),
-- 附保留字体名称<附加保留字体名称>。
-- 版权所有 (c) <日期>， <附加版权持有人> (<URL|邮件>)
-- 本字体软件按SIL开源字体许可证第1.1版进行授权。
-- 本许可证副本如下，也随附FAQ在如下网站可见：https://scripts.sil.org/OFL
 
-SIL OPEN FONT LICENSE，Version 1.1 – 26 February 2007
 
-SIL开源字体许可证，第1.1版 2007年2月26日
+```
+Copyright (c) <dates>, <Copyright Holder> (<URL|email>),
+with Reserved Font Name <Reserved Font Name>.
+Copyright (c) <dates>, <additional Copyright Holder> (<URL|email>),
+with Reserved Font Name <additional Reserved Font Name>.
+Copyright (c) <dates>, <additional Copyright Holder> (<URL|email>).
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at: https://scripts.sil.org/OFL
+ 
+版权所有 (c) <日期>， <版权持有人> (<URL|邮件>),
+附保留字体名称<保留字体名称>。
+版权所有 (c) <日期>， <附加版权持有人> (<URL|邮件>),
+附保留字体名称<附加保留字体名称>。
+版权所有 (c) <日期>， <附加版权持有人> (<URL|邮件>)
+本字体软件按SIL开源字体许可证第1.1版进行授权。
+本许可证副本如下，也随附FAQ在如下网站可见：https://scripts.sil.org/OFL
+```
 
-PREAMBLE序言
+
+ **SIL OPEN FONT LICENSE，Version 1.1 – 26 February 2007**
+
+ **SIL开源字体许可证，第1.1版 2007年2月26日** 
+
+ **PREAMBLE序言** 
 
 The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.
 
@@ -32,7 +38,7 @@ The OFL allows the licensed fonts to be used, studied, modified and redistribute
 
 OFL允许其授权下的字体被自由地使用、研究、修改和再分发，只要不单独出售该字体。这些字体（包括任何衍生作品）可与任何软件捆绑、嵌入、再分发和/或出售，前提是衍生作品不得使用任何保留名称。但是，这些字体及衍生作品不得以任何其他类型的许可证发布。字体保持在本许可证下授权的要求并不适用于使用该字体或其衍生作品创建的任何文件。
 
-DEFINITIONS定义
+ **DEFINITIONS定义** 
 
 “Font Software” refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
 
@@ -60,24 +66,32 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 特此允许任何获得本字体软件副本的人免费使用、研究、复制、合并、嵌入、修改、重新分发并销售本字体软件的修改版和未修改版的副本，但须遵守以下条件：
 
-1)Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
-1) 本字体软件或其任何单独组件，无论是原始版本还是修改版本，都不得单独出售。
-2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
-2) 本字体软件的原始版本或修改版本可以与任何软件捆绑、再分发和/或一并出售，但每个副本必须包含上述版权声明和本许可证。这些内容可被置于独立的纯文本文件、人类可读的标题中或在文本或二进制文件内适当的机器可读元数据字段中，只要该字段可被用户方便地阅览。
-3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.
-3) 除非得到相应版权持有人的明确书面许可，否则本字体软件的任何修改版本皆不得使用保留的字体名称。这项限制仅适用于呈现给用户的主要字体名称。
-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
-4) 本字体软件的版权持有人或作者的名称不得用于推广、背书或宣传任何修改版本，除非为了向版权持有人和作者致谢，或除非已取得版权持有人和作者的明确书面许可。
-5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.
-5) 本字体软件，无论是否经过修改，无论是部分还是整体，都必须完全在本许可证下发布，而不能在任何其他许可证下发布。字体保持在本许可证下授权的要求并不适用于使用本字体软件创建的任何文件。
 
-TERMINATION终止
+```
+1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
+   本字体软件或其任何单独组件，无论是原始版本还是修改版本，都不得单独出售。
+
+2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+   本字体软件的原始版本或修改版本可以与任何软件捆绑、再分发和/或一并出售，但每个副本必须包含上述版权声明和本许可证。这些内容可被置于独立的纯文本文件、人类可读的标题中或在文本或二进制文件内适当的机器可读元数据字段中，只要该字段可被用户方便地阅览。
+
+3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.
+   除非得到相应版权持有人的明确书面许可，否则本字体软件的任何修改版本皆不得使用保留的字体名称。这项限制仅适用于呈现给用户的主要字体名称。
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
+   本字体软件的版权持有人或作者的名称不得用于推广、背书或宣传任何修改版本，除非为了向版权持有人和作者致谢，或除非已取得版权持有人和作者的明确书面许可。
+
+5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.
+   本字体软件，无论是否经过修改，无论是部分还是整体，都必须完全在本许可证下发布，而不能在任何其他许可证下发布。字体保持在本许可证下授权的要求并不适用于使用本字体软件创建的任何文件。
+```
+
+
+ **TERMINATION终止** 
 
 This license becomes null and void if any of the above conditions are not met.
 
 如果任何上述条件未能遵守，本许可证将失效。
 
-DISCLAIMER免责声明
+ **DISCLAIMER免责声明** 
 
 THE FONT SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
 
@@ -86,11 +100,12 @@ THE FONT SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS
 
 
 
-
-
 _______________________________________________
 
+
+```
 © 2003-2009 SIL International, all rights reserved, unless otherwise noted elsewhere on this page.
 Provided by SIL’s Non-Roman Script Initiative. Contact us at nrsi@sil.org.
 © 2003-2009 除非本页面其他地方另有说明，SIL国际保留所有权利。
 由SIL的非罗马文字促进会提供。联系我们请至nrsi@sil.org.
+```
