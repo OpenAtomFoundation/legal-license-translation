@@ -95,7 +95,7 @@ This license becomes null and void if any of the above conditions are not met.
 
 THE FONT SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
 
-本字体软件系“按原样”提供，没有任何明示或默示的保证，包括但不限于对适销性、特定用途适用性和不侵犯版权、专利、商标或其他权利的任何保证。在任何情况下，不论来自于合同、侵权或其他案件中，版权持有人皆不对因使用或无法使用本字体软件而引起的、引发的或因本字体软件中其他利用而引起的任何权利主张、损害赔偿或其他责任（包括任何一般的、特殊的、间接的、偶然的或继发的损害）承担责任。
+本字体软件系“按原样”提供，没有任何明示或默示的保证，包括但不限于对适销性、特定用途适用性和不侵犯版权、专利、商标或其他权利的任何保证。在任何情况下，不论来自于合同、侵权或其他案件中，版权持有人皆不对因使用或无法使用本字体软件而引起的、引发的或因本字体软件中其他利用而引起的任何权利主张、损害赔偿或其他责任（包括任何一般的、特殊的、间接的、偶然的或继发性的损失）承担责任。
 
 
 
