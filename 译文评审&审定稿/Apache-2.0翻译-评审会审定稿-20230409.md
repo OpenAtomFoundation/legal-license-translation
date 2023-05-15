@@ -58,7 +58,7 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION **使用、复制�
 
 Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
 
-受限于本许可证的条款和条件，每个贡献者特此授予您永久的、全球性的、非排他性的、免交易费的、免许可费的、不可撤销的版权许可，以复制、准备衍生作品、公开展示、公开表演、再许可和分发本作品及其衍生作品，以源码或目标码形式。
+受限于本许可证的条款和条件，每个贡献者特此授予您永久的、全球性的、非排他性的、免交易费的、免许可费的、不可撤销的版权许可，以复制、准备衍生作品、公开展示、公开表演、分许可和分发本作品及其衍生作品，以源码或目标码形式。
 
  **3.Grant of Patent License.专利许可的授予** 
 
