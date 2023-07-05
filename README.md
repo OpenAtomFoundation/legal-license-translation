@@ -10,6 +10,7 @@
 
 ## 2023年度许可证译文评审专家
 
+![输入图片说明](%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF/%E4%B8%93%E5%AE%B6%E8%AF%84%E5%AE%A1%E5%9B%A22023.png)
 
 (按加入的先后顺序)
 
@@ -107,6 +108,6 @@
  _如对以上许可证译文或其评审有建议或异议，欢迎联系 Translation@openatom.io ，非常感谢！_ 
 
 ## 致谢及推广方式
-（1） **我们非常感谢Lotus、[Vanessa](http://gitee.com/vanessaguo)、[Peaksol](http://gitee.com/peaksol)、[野行僧](http://gitee.com/gzkoala)、[迷糊](http://gitee.com/xriqc)、[赵振华](http://gitee.com/richzhao409)、Sikkim、[Sara](http://gitee.com/zhang-glas)、[OliviaCat](https://gitee.com/oliviacat)、[欧轩琦](https://gitee.com/ouxuanqi) 十位译者的贡献！** 基金会将向评审专家、投稿人、最终译文投稿人颁发相关证书（例如：贡献者证书）。
+（1） **我们非常感谢Lotus、[Vanessa](http://gitee.com/vanessaguo)、[Peaksol](http://gitee.com/peaksol)、[野行僧](http://gitee.com/gzkoala)、[迷糊](http://gitee.com/xriqc)、[赵振华](http://gitee.com/richzhao409)、Sikkim、[Sara](http://gitee.com/zhang-glas)、[OliviaCat](https://gitee.com/oliviacat)、[欧轩琦](https://gitee.com/ouxuanqi) 十位译者的贡献！** 基金会将向评审专家、投稿人、最终译文投稿人颁发致谢函。
 
 （2）拟在基金会官方网站及官方微信公众号发布最终获选译文，制作合辑并推广；拟推荐OSI、Linux基金会、Eclipse基金会等许可证发布平台链接发布。
