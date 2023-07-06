@@ -9,7 +9,7 @@ This is the Computational Use of Data Agreement, Version 1.0 (the “C-UDA”). 
 
 本文本系数据计算使用协议，第1.0版本（“C-UDA”）。首字母大写的术语在第5条款中定义。数据提供者与您同意如下：
 
-**1.Provision of the Data “数据”的规定**
+**1.Provision of the Data “数据”的提供**
 
 1.1 You may use, modify, and distribute the Data made available to you by the Data Provider under this C-UDA for Computational Use if you follow the C-UDA’s terms.
 
