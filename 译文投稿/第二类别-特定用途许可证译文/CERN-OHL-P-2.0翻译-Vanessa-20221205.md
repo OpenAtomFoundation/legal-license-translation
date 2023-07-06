@@ -160,22 +160,17 @@ performance of any Source or Product shall be with You and not the Licensor. Thi
 7.4 除非许可人照本许可证而为，否则本许可证不能执行；且本许可证明确排除第三方受益人的权利。
 
 
-License Steward: Open Hardware Repository 许可证管理人: 开源硬件仓库（Open Hardware Repository）
 
 ```
-SPDX Identifier: 
-CERN-OHL-P-2.0
-Canonical URL: 
-https://ohwr.org/cern_ohl_p_v2.pdf 
-Short Title: 
-CERN-OHL-P
+License Steward: Open Hardware Repository 
+SPDX Identifier: CERN-OHL-P-2.0
+Canonical URL: https://ohwr.org/cern_ohl_p_v2.pdf 
+Short Title: CERN-OHL-P
 ```
 
 ```
-SPDX标识符: 
-CERN-OHL-P-2.0
-权威网址:
-https://ohwr.org/cern_ohl_p_v2.pdf 
-简称： 
-CERN-OHL-P
+许可证管理人: 开源硬件仓库（Open Hardware Repository）
+SPDX标识符：CERN-OHL-P-2.0
+权威网址：https://ohwr.org/cern_ohl_p_v2.pdf 
+简称：CERN-OHL-P
 ```
