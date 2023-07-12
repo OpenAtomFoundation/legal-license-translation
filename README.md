@@ -26,7 +26,7 @@
 
 ## 投稿方式
 
-基金会欢迎您以实名或昵称参与本翻译项目。您的Gitee账号和/或邮箱地址是我们识别您身份并与您联系的重要渠道，请您保持关注。为译文研讨之便，我们建议您提交双语版译文。
+基金会欢迎您以实名或昵称参与本翻译项目。您的Gitee账号和/或邮箱地址是我们识别您身份并与您联系的重要渠道，请您保持关注。为译文研讨之便， **我们建议您提交双语版译文** 。
 
 （1）您可以在许可证[译文投稿](http://gitee.com/OpenAtomFoundation/legal-license-translation/tree/master/%E8%AF%91%E6%96%87%E6%8A%95%E7%A8%BF)页面提交md或word格式的译文（通常需要先fork仓库再提交pr），文件标题请参考使用以下示例格式：【SPDX许可证缩写】译文-【您的名字】-【提交日期YYYYMMDD】；同时**请随译文一并提交您的贡献声明：“本人【张三】（邮件地址）承诺，该译文由本人独立翻译。该译文如被选为终版译本，本人同意该译文以CC0协议贡献至公有领域。” 请注意：未做贡献声明的译文将不被视为有效投稿**。
 
@@ -76,36 +76,17 @@
 
 ```
 
-第三类别：已被取代的许可证
+
+第三类别：除上述提及的许可证 [其他开源许可证](https://opensource.org/licenses/category)均可在此类别中投递。
 
 
-```
-25.[Apache-1.1] Apache Software License 1.1
-26.[Artistic-1.0] Artistic license 1.0
-27.[CPL-1.0] Common Public License 1.0
-28.[EPL-1.0] Eclipse Public License 1.0
-29.[ECL-1.0] Educational Community License, Version 1.0
-30.[EFL-1.0] Eiffel Forum License V1.0
-31.[LPL-1.0] Lucent Public License ("Plan9"), version 1.0
-32.[MPL-1.0] Mozilla Public License 1.0
-33.[MPL-1.1] Mozilla Public License 1.1
-34.[OSL-1.0] Open Software License 1.0
-35.[OSL-2.1] Open Software License 2.1
-36.[PHP-3.0] PHP License 3.0
-37.[RPL-1.1] Reciprocal Public License, version 1.1
-38.[ZPL-2.0] Zope Public License 2.0
-```
+## 译文评审及路标
 
+原则上，基金会组织评审专家组对已满5份翻译的许可证开始评审，不满5份则延迟评审。如已满5份，在最后一份译文投稿日之后一个月内仍有投稿，则仍纳入评审范围；在最后一份译文投稿日一个月后，原则上不再接收投稿。专家组将对投稿译文进行投票，推选得票最高的译文为审定版本的基础，并在社区公示至少两周，公开收集对译文的修订意见和建议。公示期满后，将把社区及专家组对译文的修订意见及建议进行整理，通过邮件列表、微信群、在线会议等方式协调专家组对问题进行评审和修订，最后将最终译文版本公布并以CC0协议贡献至公有领域。
 
-第四类别：除上述提及的许可证 [其他开源许可证](https://opensource.org/licenses/category)均可在此类别中投递。
+为进一步推动译文共识，基于投稿情况，本项目拟于2023年上半年评审宽松型许可证，下半年评审著佐权许可证；2024年上半年评审特定用途许可证，下半年评审小语种许可证。我们欢迎您基于此评审路标调整您的投稿计划！
 
-
-## 译文评审
-基金会将组织评审专家组对已满5份翻译的许可证开始评审，不满5份则延迟评审。如已满5份，在最后一份译文投稿日之后一个月内仍有投稿，则仍纳入评审范围；在最后一份译文投稿日一个月后，原则上不再接收投稿。
-
-专家组将对投稿译文进行投票，推选得票最高的译文为审定版本的基础，并在社区公示至少两周，公开收集对译文的修订意见和建议。公示期满后，将把社区及专家组对译文的修订意见及建议进行整理，通过邮件列表、微信群、在线会议等方式协调专家组对问题进行评审和修订，最后将最终译文版本公布并以CC0协议贡献至公有领域。
-
- _如对以上许可证译文或其评审有建议或异议，欢迎联系 Translation@openatom.io ，非常感谢！_ 
+_如对以上许可证译文或其评审有建议或异议，欢迎联系 Translation@openatom.io ，非常感谢！_ 
 
 ## 致谢及推广方式
 （1） **我们非常感谢Lotus、[Vanessa](http://gitee.com/vanessaguo)、[Peaksol](http://gitee.com/peaksol)、[野行僧](http://gitee.com/gzkoala)、[迷糊](http://gitee.com/xriqc)、[赵振华](http://gitee.com/richzhao409)、Sikkim、[Sara](http://gitee.com/zhang-glas)、[OliviaCat](https://gitee.com/oliviacat)、[欧轩琦](https://gitee.com/ouxuanqi)、[KUMA](https://gitee.com/xue-yangjie) 11位译者的贡献！** 基金会将向评审专家、投稿人、最终译文投稿人颁发致谢函。
