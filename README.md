@@ -96,6 +96,8 @@
 
 
 第四类别：其他许可证
+
+```
 34.[0BSD] BSD Zero Clause License
 35.[AGPL-3.0] GNU Affero General Public License v3.0
 36.[Apache-1.1] Apache License 1.1
