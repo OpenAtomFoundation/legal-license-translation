@@ -32,11 +32,11 @@
 
 （2）您也可将开源许可证译文直接投稿至 Translation@openatom.io 邮件列表，基金会侧将定期上传译文投稿至Gitee/GitHub上的投稿仓库中进行展示。请在邮件中随附您md（推荐）、word、txt格式的译文，译文的文件标题请参考使用以下示例格式：【SPDX许可证缩写】译文-【您的名字】-【提交日期YYYYMMDD】；同时**请在译文文件的首页顶部标注您的贡献声明：“本人【张三】（邮件地址）承诺，该译文由本人独立翻译。该译文如被选为终版译本，本人同意该译文以CC0协议贡献至公有领域。” 请注意：未做贡献声明的译文将不被视为有效投稿**。
 
-## 译文征稿分类
+## 译文投稿分类
 (注：下述“[]”内的内容为SPDX许可证缩写)
 
 
-我们建议您依据如下四个分类进行译文投递，在特定许可证满足评审要求时，我们将组织评审专家进行译文评审。
+我们参考OSI许可证分类及[SPDX许可证清单](https://spdx.org/licenses/), 整理出如下四个投稿分类，**以下分类随译文投稿种类增多而不定期刷新**，且相互间可能有重合。*带星号的许可证通常为未经OSI认证也未经FSF自由软件认证的许可证，请谨您慎使用。
 
 第一类别：主流开源许可证
 
@@ -73,18 +73,44 @@
 22.[CERN-OHL-P-2.0] CERN Open Hardware Licence Version 2 - Permissive
 23.[CERN-OHL-W-2.0] CERN Open Hardware Licence Version 2 - Weakly Reciprocal
 24.[CERN-OHL-S-2.0] CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+25.[CDLA-Permissive-2.0] Community Data License Agreement Permissive 2.0
+26.*[C-UDA-1.0] Computational Use of Data Agreement v1.0
+等其他特定用途的许可证
+
+```
+
+第三类别：特定法域及小语种许可证
+
+
+```
+27.[CeCILL-2.1] CeCILL Free Software License Agreement v2.1
+28.[LiLiQ-P-1.1] Licence Libre du Québec – Permissive version 1.1
+29.[IPA] IPA Font License
+30.[EUPL-1.2] European Union Public License 1.2
+31.*[LAL-1.3] Licence Art Libre 1.3
+32.*[D-FSL-1.0] Deutsche Freie Software Lizenz
+33.*[CC-BY-SA-2.1-JP] Creative Commons Attribution Share Alike 2.1 Japan
+等其他特定法域及小语种许可证
 
 ```
 
 
-第三类别：除上述提及的许可证 [其他开源许可证](https://opensource.org/licenses/category)均可在此类别中投递。
+第四类别：其他许可证
+34.[0BSD] BSD Zero Clause License
+35.[AGPL-3.0] GNU Affero General Public License v3.0
+36.[Apache-1.1] Apache License 1.1
+37.[BSD-1-clause] BSD-1-clause
+38.[GFDL-1.3] GNU Free Documentation License v1.3
+39.[ISC] ISC License
+等其他除上述提及的许可证均可在此类别中投递。
 
+```
 
 ## 译文评审及路标
 
 原则上，基金会组织评审专家组对已满5份翻译的许可证开始评审，不满5份则延迟评审。如已满5份，在最后一份译文投稿日之后一个月内仍有投稿，则仍纳入评审范围；在最后一份译文投稿日一个月后，原则上不再接收投稿。专家组将对投稿译文进行投票，推选得票最高的译文为审定版本的基础，并在社区公示至少两周，公开收集对译文的修订意见和建议。公示期满后，将把社区及专家组对译文的修订意见及建议进行整理，通过邮件列表、微信群、在线会议等方式协调专家组对问题进行评审和修订，最后将最终译文版本公布并以CC0协议贡献至公有领域。
 
-为进一步推动译文共识，基于投稿情况，本项目拟于2023年上半年评审宽松型许可证，下半年评审著佐权许可证；2024年上半年评审特定用途许可证，下半年评审小语种许可证。我们欢迎您基于此评审路标调整您的投稿计划！
+为进一步推动译文共识，基于投稿情况，本项目拟于2023年上半年评审宽松型许可证，下半年评审著佐权许可证；2024年上半年评审特定用途许可证，下半年评审特定法域及小语种许可证。我们欢迎您基于此评审路标调整您的投稿计划！
 
 _如对以上许可证译文或其评审有建议或异议，欢迎联系 Translation@openatom.io ，非常感谢！_ 
 
