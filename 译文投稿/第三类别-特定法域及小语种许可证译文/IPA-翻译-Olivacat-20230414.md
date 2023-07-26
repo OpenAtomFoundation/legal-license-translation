@@ -1,4 +1,4 @@
-译者注：IPA Font License Agreement协议目前有英文及日文版本，本翻译参照的英文文本来自：https://opensource.org/license/ipafont-html/ ，日本文本来自：https://moji.or.jp/ipafont/ipafontdownload/ 。因协议中规定“本协议基于日本法律解释”，本译文将主要参照日文文本进行翻译，明显与英文文本有差异的地方，请见标粗斜体处。
+译者注：IPA Font License Agreement协议目前有英文及日文版本，本翻译参照的英文文本来自：https://opensource.org/license/ipafont-html/ ，日本文本来自：https://moji.or.jp/ipafont/ipafontdownload/ 。因协议中规定“本协议基于日本法律解释”，本译文将主要参照日文文本进行翻译。
 本人【Oliviacat】（656271387@qq.com）承诺，该译文由本人独立翻译。该译文如被选为终版译本，本人同意该译文以CC0协议贡献至公有领域。
 ________________________________________
 
@@ -8,20 +8,21 @@ ________________________________________
 
 許諾者は、この使用許諾（以下「本契約」といいます。）に定める条件の下で、許諾プログラム（1条に定義するところによります。）を提供します。受領者（1条に定義するところによります。）が、許諾プログラムを使用し、複製し、または頒布する行為、その他、本契約に定める権利の利用を行った場合、受領者は本契約に同意したものと見なします。
 
-The Licensor provides the Licensed Program (as defined in Article 1 below)  _**under the**_  terms of this license agreement (“Agreement”).  Any use, reproduction or distribution of the Licensed Program, or any exercise of rights under this Agreement by a Recipient (as defined in Article 1 below) constitutes the Recipient’s acceptance of this Agreement.
+The Licensor provides the Licensed Program (as defined in Article 1 below) under the terms of this license agreement (“Agreement”).  Any use, reproduction or distribution of the Licensed Program, or any exercise of rights under this Agreement by a Recipient (as defined in Article 1 below) constitutes the Recipient’s acceptance of this Agreement.
 
-许可人根据本许可证协议（下称"协议"）规定的条款提供许可程序（定义见下文第1条）。接收者（定义见下文第1条）使用、复制或发布许可程序，及其他行使本协议规定权利的行为，均视为接收者对本协议的同意。
+许可人在本使用许可（下称"协议"）规定的条件下提供许可程序（如第1条的定义）。接收者（如第1条的定义）使用、复制或分发许可程序，及其他行使本协议规定权利的行为，均视为接收者对本协议的同意。
 
  **第1条　用語の定義 Definitions 术语定义** 
 
 本契約において、次の各号に掲げる用語は、当該各号に定めるところによります。 _（译者注：本句话仅日本版本存在。）_ 
+
 在本协议中，下列各项所列术语以本条各项规定为准。
 
 1.「デジタル･フォント･プログラム」とは、フォントを含み、レンダリングしまたは表示するために用いられるコンピュータ・プログラムをいいます。
 
-“Digital Font Program” shall mean a computer program containing,  _**or**_  used to render or display fonts.
+“Digital Font Program” shall mean a computer program containing, or used to render or display fonts.
 
-"数字字体程序 "是指包含字体 _**并**_ 用于渲染或显示的计算机程序。
+"数字字体程序 "是指包含字体，用于渲染或显示的计算机程序。
 
 2.「許諾プログラム」とは、許諾者が本契約の下で許諾するデジタル･フォント･プログラムをいいます。
 
@@ -29,23 +30,23 @@ The Licensor provides the Licensed Program (as defined in Article 1 below)  _**u
 
 "许可程序 "是指许可人在本协议下许可的数字字体程序。
 
-3.「派生プログラム」とは、許諾プログラムの一部または全部を、改変し、加除修正等し、入れ替え、その他翻案したデジタル･フォント･プログラムをいい、許諾プログラムの一部もし くは全部から文字情報を取り出し、またはデジタル･ドキュメント･ファイルからエンベッドされたフォントを取り出し、取り出された文字情報をそのまま、または改変をなして新たなデジタル・フォント・プログラムとして製作されたものを含みます。
+3.「派生プログラム」とは、許諾プログラムの一部または全部を、改変し、加除修正等し、入れ替え、その他翻案したデジタル･フォント･プログラムをいい、許諾プログラムの一部もしくは全部から文字情報を取り出し、またはデジタル･ドキュメント･ファイルからエンベッドされたフォントを取り出し、取り出された文字情報をそのまま、または改変をなして新たなデジタル・フォント・プログラムとして製作されたものを含みます。
 
 “Derived Program” shall mean a Digital Font Program created as a result of a modification, addition, deletion, replacement or any other adaptation to or of a part or all of the Licensed Program, and includes a case where a Digital Font Program newly created by retrieving font information from a part or all of the Licensed Program or Embedded Fonts from a Digital Document File with or without modification of the retrieved font information.
 
-"衍生程序 "是指对许可程序的一部分或全部进行修改、增加删除等、替换、及其他改编过的数字字体程序，包括从许可程序的一部分或全部检索字体信息，或从数字文档文件中检索嵌入的字体，并对检索到的字体信息按原样或经过修改后而创建的新的字体程序。
+"衍生程序 "是指对许可程序的一部分或全部进行修改、增加删除等、替换、及其他改编过的数字字体程序，包括从许可程序的一部分或全部抽取字体信息，或从数字文档文件中抽取嵌入的字体，并对抽取到的字体信息按原样或进行修改后创建的新的字体程序。
 
 4.「デジタル・コンテンツ」とは、デジタル・データ形式によってエンド・ユーザに提供される制作物のことをいい、動画・静止画等の映像コンテンツおよびテレビ番組等の放送コンテンツ、ならびに文字テキスト、画像、図形等を含んで構成された制作物を含みます。
 
-“Digital Content” shall mean products provided to end users in the form of digital data, including video content, motion and/or still pictures, TV programs or other broadcasting content and products consisting of character text, pictures, photographic images, graphic symbols and/or the like.
+“Digital Content” shall mean products provided to end users in the form of digital data, including _**video content, motion and/or still pictures, TV programs or other broadcasting content and products consisting of character text, pictures, photographic images, graphic symbols and/or the like**_.
 
-"数字内容 "是指以数字数据形式提供给最终用户的作品，包括如视频、静止影像等影像内容和电视节目等广播内容，以及由文字文本、 图像、图形等组成的作品。
+"数字内容 "是指以数字数据形式提供给最终用户的作品，包括 _**如视频、静止影像等影像内容和电视节目等广播内容，以及由文字文本、 图像、图形等组成的作品**_ 。
 
 5.デジタル・ドキュメント・ファイル」とは、PDFファイルその他、各種ソフトウェア･プログラムによって製作されたデジタル・コンテンツであって、その中にフォントを表示するために許諾プログラムの全部または一部が埋め込まれた（エンベッドされた）ものをいいます。フォントが「エンベッドされた」とは、当該フォントが埋め込まれた特定の「デジタル・ドキュメント・ファイル」においてのみ表示されるために使用されている状態を指し、その特定の「デジタル・ドキュメント・ファイル」以外でフォントを表示するために使用できるデジタル・フォント・プログラムに含まれている場合と区別されます。
 
-“Digital Document File” shall mean _**a PDF file or other Digital Content created by various software programs**_  in which a part or all of the Licensed Program becomes embedded or contained in the file for the display of the font (“Embedded Fonts”).  Embedded Fonts are used only in the display of characters in the particular Digital Document File within which they are embedded, and shall be distinguished from those in any Digital Font Program, which may be used for display of characters outside that particular Digital Document File.
+“Digital Document File” shall mean a PDF file or other Digital Content created by various software programs in which a part or all of the Licensed Program becomes embedded or contained in the file for the display of the font (“Embedded Fonts”).  Embedded Fonts are used only in the display of characters in the particular Digital Document File within which they are embedded, and shall be distinguished from those in any Digital Font Program, which may be used for display of characters outside that particular Digital Document File.
 
-“数字文档文件”是指 _**由PDF文件或其他各种软件程序创建的数字内容**_ ，其中许可程序的全部或部分被埋入（嵌入）以显示字体。字体“被嵌入”是该字体仅被用于在其嵌入的特定“数字文档文件”中显示的状态，与可以显示在特定“数字文档文件”之外字体的数字字体程序所包含的情况相区别。
+“数字文档文件”是指，PDF文件或其他的由各种软件程序创建的数字内容，其中许可程序的全部或部分被嵌入（Embedded）以显示字体。字体“被嵌入”是该字体仅用于在其嵌入的特定“数字文档文件”中显示，区别于包含在数字字体程序里，在特定“数字文档文件”之外可以用于显示字体的情况。
 
 6.「コンピュータ｣とは、本契約においては、サーバを含みます。
 
@@ -57,7 +58,7 @@ The Licensor provides the Licensed Program (as defined in Article 1 below)  _**u
 
 “Reproduction and Other Exploitation” shall mean reproduction, transfer, distribution, lease, public transmission, presentation, exhibition, adaptation and any other exploitation.
 
-“复制及以其他方式使用”是指复制、转让、发行、出租、公众传播、放映、展示、改编等其他使用。
+“复制及以其他方式使用”是指复制、转让、分发、出租、公众传播、放映、展示、改编等其他使用。
 
 8.「受領者」とは、許諾プログラムを本契約の下で受領した人をいい、受領者から許諾プログラムを受領した人を含みます。
 
@@ -95,25 +96,25 @@ The Recipient may conduct Reproduction and Other Exploitation of the printed mat
 
 If any Recipient extracts Embedded Fonts from a Digital Document File to create a Derived Program, such Derived Program shall be subject to the terms of this agreement. 
 
-如果接收者从数字文档文件中检索嵌入的字体并创建衍生程序，则该衍生程序必须遵守本协议中规定的条款和条件。
+如果接收者从数字文档文件中抽取嵌入的字体并创建衍生程序，则该衍生程序必须遵守本协议中规定的条件。
 
 5.許諾プログラムのエンベッドされたフォントがデジタル・ドキュメント・ファイル内のデジタル・コンテンツをレンダリングするためにのみ使用される場合において、受領者が当該デジタル・ドキュメント・ファイルを複製その他の利用をする場合には、受領者はかかる行為に関しては本契約の下ではいかなる義務をも負いません。
 
-If any Recipient performs Reproduction or Other Exploitation of a Digital Document File in which Embedded Fonts of the Licensed Program are used only for rendering the Digital Content within such Digital Document File then such Recipient shall have  _**no further obligations**_  under this Agreement in relation to such actions.
+If any Recipient performs Reproduction or Other Exploitation of a Digital Document File in which Embedded Fonts of the Licensed Program are used only for rendering the Digital Content within such Digital Document File then such Recipient shall have no further obligationsunder this Agreement in relation to such actions.
 
-如果许可程序中的嵌入字体仅用于呈现数字文档文件中的数字内容，则接收者复制及以其他方式使用该数字文档文件时，在本协议下，接收者对此类行为不承担本协议下的 **_任何义务_** 。
+如果许可程序中的嵌入字体仅用于呈现数字文档文件中的数字内容，则接收者复制及以其他方式使用该数字文档文件时，在本协议下，接收者对此类行为不承担本协议下的任何义务。
 
 6.受領者は、3条2項の定めに従い、商用・非商用を問わず、許諾プログラムをそのままの状態で改変することなく複製して第三者への譲渡し、公衆送信し、その他の方法で再配布することができます(以下、「再配布」といいます。)。
 
 The Recipient may reproduce the Licensed Program as is without modification and transfer such copies, publicly transmit or otherwise redistribute the Licensed Program to a third party for commercial or non-commercial purposes (“Redistribute”), in accordance with the provisions set forth in Article 3 Paragraph 2.
 
-接收者可以根据第3条第2款的规定，无论商业还是非商业，在按原样不进行修改的情况下复制许可程序，向第三转让，公开传输，或以其他方式重新发布（以下简称“再分发”）。
+接收者可以根据第3条第2款的规定，无论商业还是非商业，在按原样不进行修改的情况下复制许可程序，向第三转让，公开传输，或以其他方式重新分发（以下简称“再分发”）。
 
 7.受領者は、上記の許諾プログラムについて定められた条件と同様の条件に従って、派生プログラムを作成し、使用し、複製し、再配布することができます。ただし、受領者が派生プログラムを再配布する場合には、3条1項の定めに従うものとします。
 
 The Recipient may create, use, reproduce and/or Redistribute a Derived Program under the terms stated above for the Licensed Program: provided, that the Recipient shall follow the provisions set forth in Article 3 Paragraph 1 when Redistributing the Derived Program.
 
-接收者可以按照与上述许可程序所规定条款相同的条款创建、使用、复制和再分发衍生程序。但在接收者再分发衍生程序时，则应遵守第3条第1款的规定。
+接收者可以按照与上述许可程序所规定条件相同的条件创建、使用、复制和再分发衍生程序。但在接收者再分发衍生程序时，则应遵守第3条第1款的规定。
 
  **第３条 制限 Restriction 限制** 
 
@@ -133,7 +134,7 @@ If a Derived Program is Redistributed pursuant to Paragraph 4 and 7 of the prece
 
 The following must be also Redistributed together with the Derived Program, or be made available online or by means of mailing mechanisms in exchange for a cost which does not exceed the total costs of postage, storage medium and handling fees:
 
-在再分发衍生程序时，以下内容必须与该衍生程序一起进行再分发，为换取不超过邮资、存储介质和手续费之和的实际费用，以在线或邮寄存储介质的方式提供。
+在再分发衍生程序时，以下内容必须与该衍生程序一起进行再分发，通过在线提供或收取不超过邮资、存储介质和手续费之和的实际费用，以邮寄存储介质的方式提供。
 
 
 ```
@@ -147,11 +148,11 @@ a copy of the Derived Program; and
 
 
 ```
-(b) 派生プログラムを作成する過程でフォント開発プログラムによって作成された追加のファイル であって派生プログラムをさらに加工するにあたって利用できるファイルが存在すれば、当該ファイル
+(b) 派生プログラムを作成する過程でフォント開発プログラムによって作成された追加のファイルであって派生プログラムをさらに加工するにあたって利用できるファイルが存在すれば、当該ファイル
 
 any additional file created by the font developing program in the course of creating the Derived Program that can be used for further modification of the Derived Program, if any.
 
-在创建衍生程序的过程中，字体开发程序创建的追加文件，如果有可以在进一步加工衍生程序时使用的文件，该文件
+在创建衍生程序的过程中，字体开发程序创建的补充文件，如有这些文件且可用于进一步加工衍生程序的话
 
 ```
 
@@ -166,7 +167,7 @@ It is required to also Redistribute means to enable recipients of the Derived Pr
 
 The Recipient must license the Derived Program under the terms and conditions of this Agreement.
 
-衍生程序必须按照本协议中规定的条款和条件进行许可。
+衍生程序必须按照本协议中规定的条件进行许可。
 
 (4) 派生プログラムのプログラム名、フォント名またはファイル名として、許諾プログラムが用いているのと同一の名称、またはこれを含む名称を使用してはなりません。
 
