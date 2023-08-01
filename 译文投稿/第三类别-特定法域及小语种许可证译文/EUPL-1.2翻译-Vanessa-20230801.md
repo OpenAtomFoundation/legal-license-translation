@@ -112,9 +112,7 @@ The grant of the rights mentioned above is subject to some restrictions and obli
 兼容性条款：如果“被许可方”分发或传播基于“作品”和在兼容的许可证下授权的其他作品而创建的“衍生作品”或其副本，该分发或传播可以在兼容的许可证的条款下进行。基于本条款目的，“兼容的许可证”指本许可证随附的附录中所列的许可证。如果兼容的许可证项下的“被许可方”义务与本许可证下他/她的义务冲突，则以兼容的许可证的义务为准。
 
 — Provision of Source Code: When distributing or communicating copies of the Work, the Licensee will provide a machine-readable copy of the Source Code or indicate a repository where this Source will be easily and freely available for as long as the Licensee continues to distribute or communicate the Work.
-提供“源代码”：在分发或传播“作品”副本的同时，“被许可方”将提供一份机器可读的“源代码”副本或指明可方便地免费获得该“源代码”的仓库，只要*“被许可方”继续分发或传播“作品”。
-
-*译者注：此处的义务与第3条保持一致，“Licensee”应为“Licensor”即“许可方”。且经查找本许可证的法语版本，为“le donneur de licence”即“许可方”。*
+提供“源代码”：在分发或传播“作品”副本的同时，“被许可方”将提供一份机器可读的“源代码”副本或指明可方便地免费获得该“源代码”的仓库，只要“被许可方”继续分发或传播“作品”。
 
 — Legal Protection: This Licence does not grant permission to use the trade names, trademarks, service marks, or names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the copyright notice.
 法律保护：本许可证不授予使用“许可方”的商号、商标、服务标志或名称，但在描述“作品”来源及复制版权声明的内容时因合理和习惯用法需要的除外。
