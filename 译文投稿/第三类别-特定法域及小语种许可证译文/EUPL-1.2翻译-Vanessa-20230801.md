@@ -109,7 +109,7 @@ The grant of the rights mentioned above is subject to some restrictions and obli
 著佐权条款：如果“被许可方”分发或传播“原始作品”或“衍生作品”的副本，则该分发或传播将根据本许可证或本许可证后续版本的条款进行，除非“原始作品”明确仅基于本许可证的本版本分发——例如按照“仅限EUPL v.1.2”传播。“被许可方”（成为“许可方”）不能就“作品”或“衍生作品”提供或施加任何附加条款或限制，来变更或限制本许可证的条款。
 
 — Compatibility clause: If the Licensee Distributes or Communicates Derivative Works or copies thereof based upon both the Work and another work licensed under a Compatible Licence, this Distribution or Communication can be done under the terms of this Compatible Licence. For the sake of this clause, ‘Compatible Licence’ refers to the licences listed in the appendix attached to this Licence. Should the Licensee's obligations under the Compatible Licence conflict with his/her obligations under this Licence, the obligations of the Compatible Licence shall prevail.
-兼容性条款：如果“被许可方”分发或传播基于“作品”和在兼容的许可证下授权的其他作品而创建的“衍生作品”或其副本，该分发或传播可以在兼容的许可证的条款下进行。基于本条款目的，“兼容的许可证”指本许可证随附的附录中所列的许可证。如果兼容的许可证项下的“被许可方”义务与本许可证下他/她的义务冲突，则以兼容的许可证的义务为准。
+兼容性条款：如果“被许可方”分发或传播同时基于“作品”和在兼容的许可证下授权的其他作品而创建的“衍生作品”或其副本，该分发或传播可以在兼容的许可证的条款下进行。基于本条款目的，“兼容的许可证”指本许可证随附的附录中所列的许可证。如果兼容的许可证项下的“被许可方”义务与本许可证下他/她的义务冲突，则以兼容的许可证的义务为准。
 
 — Provision of Source Code: When distributing or communicating copies of the Work, the Licensee will provide a machine-readable copy of the Source Code or indicate a repository where this Source will be easily and freely available for as long as the Licensee continues to distribute or communicate the Work.
 提供“源代码”：在分发或传播“作品”副本的同时，“被许可方”将提供一份机器可读的“源代码”副本或指明可方便地免费获得该“源代码”的仓库，只要“被许可方”继续分发或传播“作品”。
