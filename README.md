@@ -106,9 +106,10 @@ _如对以上许可证译文或评审计划有任何建议或异议，欢迎您�
 28.[LiLiQ-P-1.1] Licence Libre du Québec – Permissive version 1.1
 29.[IPA] IPA Font License
 30.[EUPL-1.2] European Union Public License 1.2
-31.*[LAL-1.3] Licence Art Libre 1.3
-32.*[D-FSL-1.0] Deutsche Freie Software Lizenz
-33.*[CC-BY-SA-2.1-JP] Creative Commons Attribution Share Alike 2.1 Japan
+31.*[공공누리] 공공저작물 자유이용 허락 표시제도 / Korea Open Government License (KOGL)
+32.*[LAL-1.3] Licence Art Libre 1.3
+33.*[D-FSL-1.0] Deutsche Freie Software Lizenz
+34.*[CC-BY-SA-2.1-JP] Creative Commons Attribution Share Alike 2.1 Japan
 等其他特定法域及小语种许可证
 
 ```
@@ -117,12 +118,12 @@ _如对以上许可证译文或评审计划有任何建议或异议，欢迎您�
 第四类别：其他许可证
 
 ```
-34.[0BSD] BSD Zero Clause License
-35.[AGPL-3.0] GNU Affero General Public License v3.0
-36.[Apache-1.1] Apache License 1.1
-37.[BSD-1-clause] BSD-1-clause
-38.[GFDL-1.3] GNU Free Documentation License v1.3
-39.[ISC] ISC License
+35.[0BSD] BSD Zero Clause License
+36.[AGPL-3.0] GNU Affero General Public License v3.0
+37.[Apache-1.1] Apache License 1.1
+38.[BSD-1-clause] BSD-1-clause
+39.[GFDL-1.3] GNU Free Documentation License v1.3
+40.[ISC] ISC License
 等其他除上述提及的许可证均可在此类别中投递。
 
 ```
