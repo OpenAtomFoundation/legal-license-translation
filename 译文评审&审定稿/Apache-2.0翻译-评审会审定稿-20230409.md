@@ -105,7 +105,7 @@ This License does not grant permission to use the trade names, trademarks, servi
 
 本许可证不授予使用许可方的商号、商标、服务标志或产品名称的许可，但在描述本作品来源及复制NOTICE文件内容时因合理和习惯用法需要的除外。
 
- **7.Disclaimer of Warranty.无担保声明** 
+ **7.Disclaimer of Warranty.无保证声明** 
 
 Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
 
