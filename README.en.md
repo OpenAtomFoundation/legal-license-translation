@@ -16,12 +16,12 @@ The reason why we initiated the open-source licenses section (this “Section”
 
 We established a Review Panel of experts in regard to both open source and languages, including **Professor ZHOU Minghui** (professor of Peking University, leading the OSI-approved Mulan PSLv2, etc.), **WEI Sir** (translator of _the Cathedral and the Bazaar_ and various OS licenses), **SHEN Fen** (top open source legal counsel from Huawei and a recognized legal expert in OS community), **Professor SONG Lei** (the chief editor of the English-Chinese Dictionary of Law Terms), and **Professor XU Meiling** (assistant professor on intellectual property law from UIBE). The panel has been working collaboratively in reviewing and revising candidate translation texts line by line to develop a finalized version of translation. 
 
-
+![输入图片说明](%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF/%E4%B8%93%E5%AE%B6%E8%AF%84%E5%AE%A1%E5%9B%A22023.png)
 ## Review Process and Roadmap
 
 The experts will organise the review meeting(s) for the License of which there are at least five translations submitted. The panel votes to an candidate translation texts firstly, review and revise it line by line then. After published in the community at least one month to gather any suggestion (if any), the revised text becomes the finalized version released under CC0.  
 
- 	As of now, the following [open source license translations](https://atomgit.com/OpenAtomFoundation/translation/tree/master/%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%BF%BB%E8%AF%91) have been reviewed by the experts and publicly available:
+As of now, the following [open source license translations](https://atomgit.com/OpenAtomFoundation/translation/tree/master/%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%BF%BB%E8%AF%91) have been reviewed by the experts and publicly available:
 
 - [MIT](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF/MIT%E7%BF%BB%E8%AF%91-%E8%AF%84%E5%AE%A1%E4%BC%9A%E5%AE%A1%E5%AE%9A%E7%A8%BF-20230115.md)
 
