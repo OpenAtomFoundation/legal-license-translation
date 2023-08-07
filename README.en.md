@@ -26,20 +26,20 @@ We also set up a roadmap to further this Section: the experts will review permis
 
 Currently, the experts have reviewed the following [open source license translations](https://atomgit.com/OpenAtomFoundation/translation/tree/master/%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%BF%BB%E8%AF%91) and made them publicly available:
 
-- [MIT](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF/MIT%E7%BF%BB%E8%AF%91-%E8%AF%84%E5%AE%A1%E4%BC%9A%E5%AE%A1%E5%AE%9A%E7%A8%BF-20230115.md)
+- [MIT](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/MIT%E7%BF%BB%E8%AF%91-%E8%AF%84%E5%AE%A1%E4%BC%9A%E5%AE%A1%E5%AE%9A%E7%A8%BF-20230115.md)
 
-- [BSD-3-Clause](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF/BSD-3-clause%E7%BF%BB%E8%AF%91-%E8%AF%84%E5%AE%A1%E4%BC%9A%E5%AE%A1%E5%AE%9A%E7%A8%BF-20230115.md)
+- [BSD-3-Clause](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/BSD-3-clause%E7%BF%BB%E8%AF%91-%E8%AF%84%E5%AE%A1%E4%BC%9A%E5%AE%A1%E5%AE%9A%E7%A8%BF-20230115.md)
 
-- [Apache-2.0](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF/Apache-2.0%E7%BF%BB%E8%AF%91-%E8%AF%84%E5%AE%A1%E4%BC%9A%E5%AE%A1%E5%AE%9A%E7%A8%BF-20230409.md)
+- [Apache-2.0](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/Apache-2.0%E7%BF%BB%E8%AF%91-%E8%AF%84%E5%AE%A1%E4%BC%9A%E5%AE%A1%E5%AE%9A%E7%A8%BF-20230409.md)
 
 
-Open-source license currently quasi finished its review include:
+Open-source license currently quasi finished its review includes:
 
 - GNU GPL V3
 
 ## Submission Process
 
-(1)You can submit your translation(s) files in MarkDown (preferred), txt or Word format to the [Submission folder](https://gitee.com/OpenAtomFoundation/legal-license-translation/tree/master/%E8%AF%91%E6%96%87%E6%8A%95%E7%A8%BF) (In general, fork this repo, then pull requests) or directly send them to Translation@openatom.io.
+(1)You can submit your translation(s) files in MarkDown (preferred), txt or Word format to the [Submission folder](https://gitee.com/OpenAtomFoundation/legal-license-translation/tree/master/%E8%AF%91%E6%96%87%E6%8A%95%E7%A8%BF%20Submission) (In general, fork this repo, then pull requests) or directly send them to Translation@openatom.io.
 
 (2)Please use the following format to name your file: [SDPX License Abbreviation] Translation - [Your Name] - [Date of Submission/YYYYMMDD]. 
 
