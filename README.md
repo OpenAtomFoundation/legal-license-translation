@@ -133,4 +133,4 @@ _如对以上许可证译文或评审计划有任何建议或异议，欢迎您�
 ## 致谢及推广方式
 （1） **我们非常感谢Lotus、[Vanessa](http://gitee.com/vanessaguo)、[Peaksol](http://gitee.com/peaksol)、[野行僧](http://gitee.com/gzkoala)、[迷糊](http://gitee.com/xriqc)、[赵振华](http://gitee.com/richzhao409)、Sikkim、[Sara](http://gitee.com/zhang-glas)、[OliviaCat](https://gitee.com/oliviacat)、[欧轩琦](https://gitee.com/ouxuanqi)、[KUMA](https://gitee.com/xue-yangjie) 11位译者的贡献！** 基金会将向评审专家、投稿人、最终译文投稿人颁发致谢函。
 
-（2）拟在基金会官方网站及官方微信公众号发布最终获选译文，制作合辑并推广；拟推荐OSI、Linux基金会、Eclipse基金会等许可证发布平台链接发布。
+（2）拟在基金会官方网站及官方微信公众号发布最终获选译文，制作合辑并推广；拟推荐至Apache软件基金会、自由软件基金会、Eclipse基金会、OSI等许可证发布或管理平台链接发布。
