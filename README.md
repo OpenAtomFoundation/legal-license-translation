@@ -10,7 +10,7 @@
 
 ## 2023年度开源许可证译文评审专家
 
-![输入图片说明](%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF/%E4%B8%93%E5%AE%B6%E8%AF%84%E5%AE%A1%E5%9B%A22023.png)
+![输入图片说明](%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/%E4%B8%93%E5%AE%B6%E8%AF%84%E5%AE%A1%E5%9B%A22023.png)
 
 (按加入的先后顺序)
 
