@@ -1,9 +1,9 @@
 译者注：本人KUMA（xyqgz123[at]sina.com）承诺，该译文系本人原创翻译。本人同意，如本人译文被开放原子开源基金会开源许可证翻译项目选为终版译本，本人同意将译文以CC0协议贡献至公有领域。本许可证原文链接: https://www.gnu.org/licenses/lgpl-3.0.en.html#license-text 
 
 
-GNU LESSER GENERAL PUBLIC LICENSE
+ **GNU LESSER GENERAL PUBLIC LICENSE** 
 
-Version 3, 29 June 2007
+ **Version 3, 29 June 2007** 
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 
@@ -16,9 +16,9 @@ This version of the GNU Lesser General Public License incorporates the terms and
 
 本版本的GNU 宽松通用公共许可证包含了 GNU 通用公共许可证第 3 版的条款和条件，并另增下列附加许可 。
 
-0.Additional Definitions.
+0. Additional Definitions.
 
-附加定义
+   附加定义
 
 As used herein, "this License" refers to version 3 of the GNU Lesser General Public License, and the "GNU GPL" refers to version 3 of the GNU General Public License.
 
@@ -44,17 +44,17 @@ The "Corresponding Application Code" for a Combined Work means the object code a
 
 组合作品的“对应应用代码”指应用程序的目标代码或源代码，包括复制组合作品所需的应用程序的任何数据和实用程序，但不包括组合作品的系统库。
 
-1.Exception to Section 3 of the GNU GPL. 
+1. Exception to Section 3 of the GNU GPL. 
 
-GNU GPL第3条的例外。
+   GNU GPL第3条的例外。
 
 You may convey a covered work under sections 3 and 4 of this License without being bound by section 3 of the GNU GPL.
 
 您可以在不受 GNU GPL 第 3 条约束的情况下传递本许可证第 3 条和第 4 条所涵盖的作品。
 
-2.Conveying Modified Versions.
+2. Conveying Modified Versions.
 
-传递经修改的版本
+   传递经修改的版本
 
 If you modify a copy of the Library, and, in your modifications, a facility refers to a function or data to be supplied by an Application that uses the facility (other than as an argument passed when the facility is invoked), then you may convey a copy of the modified version:
 
@@ -68,9 +68,9 @@ b)under the GNU GPL, with none of the additional permissions of this License app
 
 以GNU GPL进行传递，本许可证中的任何附加许可均不适用于该副本。
 
-3.Object Code Incorporating Material from Library Header Files.
+3. Object Code Incorporating Material from Library Header Files.
 
-包含库头文件材料的目标代码
+    包含库头文件材料的目标代码
 
 The object code form of an Application may incorporate material from a header file that is part of the Library. You may convey such object code under terms of your choice, provided that, if the incorporated material is not limited to numerical parameters, data structure layouts and accessors, or small macros, inline functions and templates (ten or fewer lines in length), you do both of the following:
 
@@ -84,9 +84,9 @@ b)Accompany the object code with a copy of the GNU GPL and this license document
 
 随目标代码提供GNU GPL和本许可证文件的副本。
 
-4.Combined Works.
+4. Combined Works.
 
-组合作品
+   组合作品
 
 You may convey a Combined Work under terms of your choice that, taken together, effectively do not restrict modification of the portions of the Library contained in the Combined Work and reverse engineering for debugging such modifications, if you also do each of the following:
 
@@ -120,9 +120,9 @@ e)Provide Installation Information, but only if you would otherwise be required 
 
 提供安装信息，但仅在根据GNU GPL的第6条规定您需要提供这些信息的情况下，并且仅限于这些信息对于安装和执行经修改的组合作品是必要的情况下，此组合作品通过将应用程序与经修改的链接版本重新组合或重新链接生成。（如果您使用选项4d0，必须随安装信息提供最小对应源代码和对应应用程序代码。如果您使用选项4d1，您必须按照GNU GPL第6条规定的传递对应源代码的方式提供安装信息。）
 
-5.Combined Libraries
+5. Combined Libraries
 
-组合库
+   组合库
 
 You may place library facilities that are a work based on the Library side by side in a single library together with other library facilities that are not Applications and are not covered by this License, and convey such a combined library under terms of your choice, if you do both of the following:
 
@@ -136,9 +136,9 @@ b)Give prominent notice with the combined library that part of it is a work base
 
 随组合库提供显著的声明，说明组合库的部分内容是基于本库创作的，并解释如何找到附随的该部分内容的未合并形式。
 
-6.Revised Versions of the GNU Lesser General Public License.
+6. Revised Versions of the GNU Lesser General Public License.
 
-GNU宽松通用公共许可证的修订版本
+   GNU宽松通用公共许可证的修订版本
 
 The Free Software Foundation may publish revised and/or new versions of the GNU Lesser General Public License from time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.
 
