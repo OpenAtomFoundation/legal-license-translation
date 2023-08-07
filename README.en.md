@@ -19,7 +19,7 @@ We established a Review Panel of experts in regard to both open source and langu
 ![输入图片说明](%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF/%E4%B8%93%E5%AE%B6%E8%AF%84%E5%AE%A1%E5%9B%A22023.png)
 ## Review Process and Roadmap
 
-The experts will organise the review meeting(s) for the License of which there are at least five translations submitted. The panel votes to an candidate translation texts firstly, review and revise it line by line then. After published in the community at least one month to gather any suggestion (if any), the revised text becomes the finalized version released under CC0.  
+The experts will organise the review meeting(s) for the License of which there are at least five translations submitted. The panel votes to an candidate translation texts firstly, reviews and revises it line by line then. After published in the community at least one month to gather any suggestions (if any), the revised text becomes the finalized version shared under CC0.  
 
 As of now, the following [open source license translations](https://atomgit.com/OpenAtomFoundation/translation/tree/master/%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%BF%BB%E8%AF%91) have been reviewed by the experts and publicly available:
 
