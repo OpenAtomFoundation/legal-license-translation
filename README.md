@@ -31,11 +31,11 @@
 
 经专家评审，已完成审定稿如下：
 
-- [MIT](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF/MIT%E7%BF%BB%E8%AF%91-%E8%AF%84%E5%AE%A1%E4%BC%9A%E5%AE%A1%E5%AE%9A%E7%A8%BF-20230115.md)
+- [MIT](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/MIT%E7%BF%BB%E8%AF%91-%E8%AF%84%E5%AE%A1%E4%BC%9A%E5%AE%A1%E5%AE%9A%E7%A8%BF-20230115.md)
 
-- [BSD-3-Clause](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF/BSD-3-clause%E7%BF%BB%E8%AF%91-%E8%AF%84%E5%AE%A1%E4%BC%9A%E5%AE%A1%E5%AE%9A%E7%A8%BF-20230115.md)
+- [BSD-3-Clause](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/BSD-3-clause%E7%BF%BB%E8%AF%91-%E8%AF%84%E5%AE%A1%E4%BC%9A%E5%AE%A1%E5%AE%9A%E7%A8%BF-20230115.md)
 
-- [Apache-2.0](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF/Apache-2.0%E7%BF%BB%E8%AF%91-%E8%AF%84%E5%AE%A1%E4%BC%9A%E5%AE%A1%E5%AE%9A%E7%A8%BF-20230409.md)
+- [Apache-2.0](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/Apache-2.0%E7%BF%BB%E8%AF%91-%E8%AF%84%E5%AE%A1%E4%BC%9A%E5%AE%A1%E5%AE%9A%E7%A8%BF-20230409.md)
 
 为进一步推动译文共识，基于投稿情况，本项目拟于2023年上半年评审宽松型许可证，下半年评审著佐权许可证；2024年上半年评审特定用途许可证，下半年评审特定法域及小语种许可证。我们欢迎您基于此评审路标调整您的投稿计划！
 
@@ -46,7 +46,7 @@ _如对以上许可证译文或评审计划有任何建议或异议，欢迎您�
 
 基金会欢迎您以实名或昵称参与本翻译项目。您的Gitee账号和/或邮箱地址是我们识别您身份并与您联系的重要渠道，请您保持关注。为译文研讨之便， **我们建议您提交双语对照版** 。
 
-（1）您可以在许可证[译文投稿](http://gitee.com/OpenAtomFoundation/legal-license-translation/tree/master/%E8%AF%91%E6%96%87%E6%8A%95%E7%A8%BF)页面提交md或word格式的译文（通常需要先fork仓库再提交pr），文件标题请参考使用以下示例格式：【SPDX许可证缩写】译文-【您的名字】-【提交日期YYYYMMDD】；同时**请随译文一并提交您的贡献声明：“本人【张三】（邮件地址）承诺，该译文由本人独立翻译。该译文如被选为终版译本，本人同意该译文以CC0协议贡献至公有领域。” 请注意：未做贡献声明的译文将不被视为有效投稿**。
+（1）您可以在许可证[译文投稿](https://gitee.com/OpenAtomFoundation/legal-license-translation/tree/master/%E8%AF%91%E6%96%87%E6%8A%95%E7%A8%BF%20Submission)页面提交md或word格式的译文（通常需要先fork仓库再提交pr），文件标题请参考使用以下示例格式：【SPDX许可证缩写】译文-【您的名字】-【提交日期YYYYMMDD】；同时**请随译文一并提交您的贡献声明：“本人【张三】（邮件地址）承诺，该译文由本人独立翻译。该译文如被选为终版译本，本人同意该译文以CC0协议贡献至公有领域。” 请注意：未做贡献声明的译文将不被视为有效投稿**。
 
 （2）您也可将开源许可证译文直接投稿至 Translation@openatom.io 邮件列表，基金会侧将定期上传译文投稿至Gitee/GitHub上的投稿仓库中进行展示。请在邮件中随附您md（推荐）、word、txt格式的译文，译文的文件标题请参考使用以下示例格式：【SPDX许可证缩写】译文-【您的名字】-【提交日期YYYYMMDD】；同时**请在译文文件的首页顶部标注您的贡献声明：“本人【张三】（邮件地址）承诺，该译文由本人独立翻译。该译文如被选为终版译本，本人同意该译文以CC0协议贡献至公有领域。” 请注意：未做贡献声明的译文将不被视为有效投稿**。
 
