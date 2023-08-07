@@ -16,7 +16,8 @@ The reason why we initiated the open-source licenses section (this “Section”
 
 We established a Review Panel of experts in regard to both open source and languages, including **Professor ZHOU Minghui** (professor of Peking University, leading the OSI-approved Mulan PSLv2, etc.), **WEI Sir** (translator of _the Cathedral and the Bazaar_ and various OS licenses), **SHEN Fen** (top open source legal counsel from Huawei and a recognized legal expert in OS community), **Professor SONG Lei** (the chief editor of the English-Chinese Dictionary of Law Terms), and **Professor XU Meiling** (assistant professor on intellectual property law from UIBE). The panel has been working collaboratively in reviewing and revising candidate translation texts line by line to develop a finalized version of translation. 
 
-![输入图片说明](%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF/%E4%B8%93%E5%AE%B6%E8%AF%84%E5%AE%A1%E5%9B%A22023.png)
+![输入图片说明](%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/%E4%B8%93%E5%AE%B6%E8%AF%84%E5%AE%A1%E5%9B%A22023.png)
+
 ## Review Process and Roadmap
 
 The experts will organise the review meeting(s) for the License of which there are at least five translations submitted. The panel votes to an candidate translation texts firstly, reviews and revises it line by line then. After published in the community at least one month to gather any suggestions (if any), the revised text becomes the finalized version shared under CC0.  
@@ -30,6 +31,6 @@ As of now, the following [open source license translations](https://atomgit.com/
 - [Apache-2.0](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF/Apache-2.0%E7%BF%BB%E8%AF%91-%E8%AF%84%E5%AE%A1%E4%BC%9A%E5%AE%A1%E5%AE%9A%E7%A8%BF-20230409.md)
 
 
-We also set up a road map to further this Section: the experts will review permissive licenses in the first half of 2023, and copyleft licenses in the second half of that year, and specific-use licenses in the first half of 2024 and jurisdiction-specific and small-language licenses in the second half of that year. We encourage you to change your submission timeline in accordance with this review plan!
+We also set up a roadmap to further this Section: the experts will review permissive licenses in the first half of 2023, and copyleft licenses in the second half of that year, and specific-use licenses in the first half of 2024 and jurisdiction-specific and small-language licenses in the second half of that year. We encourage you to change your submission timeline in accordance with this review plan!
 
 _For any suggestions or questions concerning the submission or the review, please contact us at Translation@openatom.io. Thank you!_
