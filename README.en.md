@@ -20,9 +20,11 @@ We established a Review Panel of experts in regard to both open source and langu
 
 ## Review Process and Roadmap
 
-The experts will organise the review meeting(s) for the License of which there are at least five translations submitted. The panel votes to an candidate translation texts firstly, reviews and revises it line by line then. After published in the community at least one month to gather any suggestions (if any), the revised text becomes the finalized version shared under CC0.  
+The experts will organise the review meeting(s) for the License of which there are at least five translations submitted. The panel votes to an candidate translation texts firstly, reviews and revises it line by line then. After published in the community at least one month to gather any suggestions (you can do this from the Issue or directly email to Translation@openatom.io), the revised text becomes the finalized version shared under CC0. Although the meetings are closed, we publish the minutes of the review meeting(s) to reflect all the discussions and explanations, as well as to follow up the inquiries made to the steward of the OS license.
 
-As of now, the following [open source license translations](https://atomgit.com/OpenAtomFoundation/translation/tree/master/%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%BF%BB%E8%AF%91) have been reviewed by the experts and publicly available:
+We also set up a roadmap to further this Section: the experts will review permissive licenses in the first half of 2023, and copyleft licenses in the second half of that year, and specific-use licenses in the first half of 2024 and jurisdiction-specific and minority language licenses in the second half of that year. We encourage you to change your submission timeline in accordance with this review plan!
+
+Currently, the experts have reviewed the following [open source license translations](https://atomgit.com/OpenAtomFoundation/translation/tree/master/%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%BF%BB%E8%AF%91) and made them publicly available:
 
 - [MIT](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF/MIT%E7%BF%BB%E8%AF%91-%E8%AF%84%E5%AE%A1%E4%BC%9A%E5%AE%A1%E5%AE%9A%E7%A8%BF-20230115.md)
 
@@ -31,6 +33,14 @@ As of now, the following [open source license translations](https://atomgit.com/
 - [Apache-2.0](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF/Apache-2.0%E7%BF%BB%E8%AF%91-%E8%AF%84%E5%AE%A1%E4%BC%9A%E5%AE%A1%E5%AE%9A%E7%A8%BF-20230409.md)
 
 
-We also set up a roadmap to further this Section: the experts will review permissive licenses in the first half of 2023, and copyleft licenses in the second half of that year, and specific-use licenses in the first half of 2024 and jurisdiction-specific and small-language licenses in the second half of that year. We encourage you to change your submission timeline in accordance with this review plan!
+Open-source license currently quasi finished its review include:
 
-_For any suggestions or questions concerning the submission or the review, please contact us at Translation@openatom.io. Thank you!_
+- GNU GPL V3
+
+## Submission Process
+
+(1)You can submit your translation(s) files in MarkDown (preferred), txt or Word format to the [Submission folder](https://gitee.com/OpenAtomFoundation/legal-license-translation/tree/master/%E8%AF%91%E6%96%87%E6%8A%95%E7%A8%BF) (In general, fork this repo, then pull requests) or directly send them to Translation@openatom.io.
+
+(2)Please use the following format to name your file: [SDPX License Abbreviation] Translation - [Your Name] - [Date of Submission/YYYYMMDD]. 
+
+(3)Along with your submission, **please kindly include a Statement of Contribution: I, [Your Name], hereby declare that this translation is my original work. If it is selected by the Contransus Translation Program as an candidate version to be reviewed and finalized, I agree to allow OpenAtom to share it in the public domain under the Creative Commons Zero License (CC0).** The submissions will NOT be deemed valid unless such Statement is included.
