@@ -20,7 +20,7 @@ We established a Review Panel of experts in regard to both open source and langu
 
 ## Review Process and Roadmap
 
-The experts will organise the review meeting(s) for the License of which there are at least five translations submitted. The panel votes to a candidate translation texts first, reviews and revises it line by line then. After publishing in the community for at least one month to gather any suggestions (you can do this from the Issue or directly email to Translation@openatom.io), the revised text becomes the finalized version shared under CC0. Although the review meetings are NOT open to the public, we publish their minutes to reflect all the discussions and explanations, as well as to follow up on the inquiries made to the steward(s) of the OS license.
+The experts will organise the review meeting(s) for the License of which there are at least five translations submitted. The panel votes to a candidate translation text first, reviews and revises it line by line then. After publishing in the community for at least one month and incorporating any changes after feedback (you can do this from the Issue or directly email to Translation@openatom.io) or enquires made to the steward(s) of the OS license, the revised text becomes the finalized version shared under CC0. Although the review meetings are NOT open to the public, we publish their minutes to reflect all the discussions and explanations, as well as to follow up on the enquiries.
 
 We also set up a review roadmap to further this Section. We encourage you to adjust your submission timeline in accordance with this review plan. 
 - 2023 Q1-Q2：**permissive licenses**
