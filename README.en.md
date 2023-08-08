@@ -25,8 +25,8 @@ The experts will organise the review meeting(s) for the License of which there a
 We also set up a review roadmap to further this Section. We encourage you to adjust your submission timeline in accordance with this review plan. 
 - 2023 Q1-Q2：**permissive licenses**
 - 2023 Q3-Q4：**copyleft licenses**
-- 2024 Q1-Q2：**specificial purposes licenses
-- 2024 Q3-Q4：**special jurisdiction and minority language licenses.
+- 2024 Q1-Q2：**specificial purposes licenses**
+- 2024 Q3-Q4：**special jurisdiction and minority language licenses.**
 
 Currently, the experts have reviewed the following [open source license translations](https://atomgit.com/OpenAtomFoundation/translation/tree/master/%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%BF%BB%E8%AF%91) and made them publicly available:
 
