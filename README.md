@@ -31,11 +31,11 @@
 
 经专家评审，已完成审定稿如下：
 
-- [MIT](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/%5BEN-CN%5D%20MIT-final%20version-20230115.md)
+- [MIT](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/%5BEN-CN%5D%20MIT-final%20text-20230115.md)
 
-- [BSD-3-Clause](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/%5BEN-CN%5D%20BSD-3-clause-final%20version-20230115.md)
+- [BSD-3-Clause](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/%5BEN-CN%5D%20BSD-3-clause-final%20text-20230115.md)
 
-- [Apache-2.0](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/%5BEN-CN%5D%20Apache-2.0-final%20version-20230409.md)
+- [Apache-2.0](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/%5BEN-CN%5D%20Apache-2.0-final%20text-20230409.md)
 
 为进一步推动译文共识，基于投稿情况，本项目拟于2023年上半年评审宽松型许可证，下半年评审著佐权许可证；2024年上半年评审特定用途许可证，下半年评审特定法域及小语种许可证。我们欢迎您基于此评审路标调整您的投稿计划！
 
