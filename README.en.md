@@ -22,7 +22,11 @@ We established a Review Panel of experts in regard to both open source and langu
 
 The experts will organise the review meeting(s) for the License of which there are at least five translations submitted. The panel votes to a candidate translation texts first, reviews and revises it line by line then. After publishing in the community for at least one month to gather any suggestions (you can do this from the Issue or directly email to Translation@openatom.io), the revised text becomes the finalized version shared under CC0. Although the meetings are closed, we publish the minutes of the review meeting(s) to reflect all the discussions and explanations, as well as to follow up on the inquiries made to the steward of the OS license.
 
-We also set up a roadmap to further this Section: the experts will review permissive licenses in the first half of 2023, copyleft licenses in the second half of that year, and specific-use licenses in the first half of 2024 and jurisdiction-specific and minority language licenses in the second half of that year. We encourage you to change your submission timeline in accordance with this review plan!
+We also set up a review roadmap to further this Section. We encourage you to adjust your submission timeline in accordance with this review plan. 
+- 2023 Q1-Q2：**permissive licenses**
+- 2023 Q3-Q4：**copyleft licenses**
+- 2024 Q1-Q2：**specificial purposes licenses
+- 2024 Q3-Q4：**special jurisdiction and minority language licenses.
 
 Currently, the experts have reviewed the following [open source license translations](https://atomgit.com/OpenAtomFoundation/translation/tree/master/%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%BF%BB%E8%AF%91) and made them publicly available:
 
