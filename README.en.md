@@ -117,6 +117,6 @@ and other licenses not mentioned above.
 
 ## Acknowledgements and Promotion
 
-The OpenAtom acknowledges all contributors with the Letter of Appreciation: **KUMA, Lotus, MI Hu, OU Xuanqi, OliviaCat, Peaksol, Sara, Sikkim, Vanessa, William, and ZHAO Zhenhua** (listed in alphabetical order).
+We extend our sincere gratitude to the translators and reviewers of this section: **KUMA, Lotus, MI Hu, OU Xuanqi, OliviaCat, Peaksol, Sara, Sikkim, Vanessa, William, and ZHAO Zhenhua** (listed in alphabetical order).
 
 The final versions of license translation will be published on the official website and the WeChat platform of OpenAtom, and will also be recommended to open source organizations such as Apache Software Foundation, Free Software Foundation, Eclipse Foundation and the Open Source Initiative (OSI), etc.
