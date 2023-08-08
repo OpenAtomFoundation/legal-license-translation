@@ -12,7 +12,7 @@ The "Contransus" (源译识) Translation Project, initiated by the OpenAtom Foun
 The reason why we initiated the open-source licenses section (this “Section”) is that while most open source licenses are only available in English and even in professional legal language, native Chinese developers continue to meet the language barrier in understanding and using open source licenses properly. Aiming to provide a permanent and reliable Chinese translation of open-source licenses that is accessible to everyone, this Section is open to the community for contributions and discussions.
 
 
-## Review Panel of Experts (2023 yr)
+## Review Panel of Experts (yr 2023)
 
 ![输入图片说明](%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/%E4%B8%93%E5%AE%B6%E8%AF%84%E5%AE%A1%E5%9B%A22023.png)
 
