@@ -2,27 +2,27 @@
 
 
 
-The "Contransus" (源译识) Translation Project, initiated by the OpenAtom Foundation, **aims to build open source consensus via translation**, in the hope of developing a widerly-shared open source ecosystem. This project is launched to promote better understanding of open source by offering professionally-reviewed, publicly available and community-oriented translations of various open source resources, primarily into Chinese. The project focuses on not only **translation of open-source licenses**, but also of **open-source-related judgments, books, key reports, etc**.
+The "Contransus" (源译识) Translation Project, initiated by the OpenAtom Foundation, **aims to build open source consensus via translation**, in the hope of developing a widerly-shared open source ecosystem. This project is launched to promote better understanding of open source by offering professionally-reviewed, publicly available and community-oriented translations of various open source resources, primarily into Chinese. The project focuses on not only the **translation of open-source licenses**, but also of **open-source-related judgments, books, key reports, etc**.
 
-**Through the [Project Repository](https://atomgit.com/OpenAtomFoundation/translation), you are warmly welcome to participate in the Contransus Project** by using approved translations, filing your translation, sharing your opinion on any translation texts, as well as recommending useful resources and expert in open source domain. If you have any feedback or suggestions, please feel free to contact us via legal[at]openatom.org.
+**Through the [Project Repository](https://atomgit.com/OpenAtomFoundation/translation), you are warmly welcome to participate in the Contransus Project** by using approved translations, filing your translation, sharing your opinion on any translation texts, as well as recommending useful resources and experts in open source domain. If you have any feedback or suggestions, please feel free to contact us via legal[at]openatom.org.
 
 
 ## Translations of Open Source Licenses
 
-The reason why we initiated the open-source licenses section (this “Section”) is that while most open source licenses are only available in English and even in professional legal language, native Chinese developers are continue to meet the language barrier in understanding and using open source licenses properly. Aiming to provide a permanent and reliable Chinese translation of open-source licenses that is accessible to everyone, this Section are open to community for contributions and discussions.
+The reason why we initiated the open-source licenses section (this “Section”) is that while most open source licenses are only available in English and even in professional legal language, native Chinese developers continue to meet the language barrier in understanding and using open source licenses properly. Aiming to provide a permanent and reliable Chinese translation of open-source licenses that is accessible to everyone, this Section is open to the community for contributions and discussions.
 
 
 ## Review Panel of Experts (2023 yr)
 
-We established a Review Panel of experts in regard to both open source and languages, including **Professor ZHOU Minghui** (professor of Peking University, leading the OSI-approved Mulan PSLv2, etc.), **WEI Sir** (translator of _the Cathedral and the Bazaar_ and various OS licenses), **SHEN Fen** (top open source legal counsel from Huawei and a recognized legal expert in OS community), **Professor SONG Lei** (the chief editor of the English-Chinese Dictionary of Law Terms), and **Professor XU Meiling** (assistant professor on intellectual property law from UIBE). The panel has been working collaboratively in reviewing and revising candidate translation texts line by line to develop a finalized version of translation. 
-
 ![输入图片说明](%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/%E4%B8%93%E5%AE%B6%E8%AF%84%E5%AE%A1%E5%9B%A22023.png)
+
+We established a Review Panel of experts in regard to both open source and languages, including **Professor ZHOU Minghui** (CS professor of Peking University, leading the OSI-approved Mulan PSLv2, etc.), **WEI Sir** (translator of _the Cathedral and the Bazaar_ and various OS licenses), **SHEN Fen** (top open source legal counsel from Huawei and a recognized legal expert in OS community), **Professor SONG Lei** (the chief editor of the English-Chinese Dictionary of Law Terms), and **Professor XU Meiling** (assistant professor on intellectual property law from UIBE). The panel has been working collaboratively in reviewing and revising candidate translation texts line by line to develop a finalized version of translation. 
 
 ## Review Process and Roadmap
 
-The experts will organise the review meeting(s) for the License of which there are at least five translations submitted. The panel votes to an candidate translation texts firstly, reviews and revises it line by line then. After published in the community at least one month to gather any suggestions (you can do this from the Issue or directly email to Translation@openatom.io), the revised text becomes the finalized version shared under CC0. Although the meetings are closed, we publish the minutes of the review meeting(s) to reflect all the discussions and explanations, as well as to follow up the inquiries made to the steward of the OS license.
+The experts will organise the review meeting(s) for the License of which there are at least five translations submitted. The panel votes to a candidate translation texts first, reviews and revises it line by line then. After publishing in the community for at least one month to gather any suggestions (you can do this from the Issue or directly email to Translation@openatom.io), the revised text becomes the finalized version shared under CC0. Although the meetings are closed, we publish the minutes of the review meeting(s) to reflect all the discussions and explanations, as well as to follow up on the inquiries made to the steward of the OS license.
 
-We also set up a roadmap to further this Section: the experts will review permissive licenses in the first half of 2023, and copyleft licenses in the second half of that year, and specific-use licenses in the first half of 2024 and jurisdiction-specific and minority language licenses in the second half of that year. We encourage you to change your submission timeline in accordance with this review plan!
+We also set up a roadmap to further this Section: the experts will review permissive licenses in the first half of 2023, copyleft licenses in the second half of that year, and specific-use licenses in the first half of 2024 and jurisdiction-specific and minority language licenses in the second half of that year. We encourage you to change your submission timeline in accordance with this review plan!
 
 Currently, the experts have reviewed the following [open source license translations](https://atomgit.com/OpenAtomFoundation/translation/tree/master/%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%BF%BB%E8%AF%91) and made them publicly available:
 
@@ -31,7 +31,6 @@ Currently, the experts have reviewed the following [open source license translat
 - [BSD-3-Clause](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/BSD-3-clause%E7%BF%BB%E8%AF%91-%E8%AF%84%E5%AE%A1%E4%BC%9A%E5%AE%A1%E5%AE%9A%E7%A8%BF-20230115.md)
 
 - [Apache-2.0](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/Apache-2.0%E7%BF%BB%E8%AF%91-%E8%AF%84%E5%AE%A1%E4%BC%9A%E5%AE%A1%E5%AE%9A%E7%A8%BF-20230409.md)
-
 
 Open-source license currently quasi finished its review includes:
 
@@ -43,4 +42,81 @@ Open-source license currently quasi finished its review includes:
 
 (2)Please use the following format to name your file: [SDPX License Abbreviation] Translation - [Your Name] - [Date of Submission/YYYYMMDD]. 
 
-(3)Along with your submission, **please kindly include a Statement of Contribution: I, [Your Name], hereby declare that this translation is my original work. If it is selected by the Contransus Translation Program as an candidate version to be reviewed and finalized, I agree to allow OpenAtom to share it in the public domain under the Creative Commons Zero License (CC0).** The submissions will NOT be deemed valid unless such Statement is included.
+(3)Along with your submission, **please kindly include a Statement of Contribution: I, [Your Name], hereby declare that this translation is my original work. If it is selected by the Contransus Translation Program as a candidate version to be reviewed and finalized, I agree to allow OpenAtom to share it in the public domain under the Creative Commons Zero License (CC0).** The submissions will NOT be deemed valid unless such Statement is included.
+
+## Submission Categories
+
+With reference to the OSI license list and SPDX license list, we set up the following four categories of submissions, **which will be updated from time to time when there may be new submissions**, and there may be some overlap between the categories. *Licenses marked with an asterisk are usually not certified by OSI or FSF, so please use them with caution.
+
+(Content inside the brackets is the abbreviation for SDPX licenses.)
+ 
+
+Category 1: popular and widely-used or with strong communities
+
+```
+1.[Apache 2.0] Apache License 2.0
+2.[BSD-3-Clause] 3-clause BSD license
+3.[BSD-2-Clause] 2-clause BSD license
+4.[MIT] MIT license
+5.[GPL-2.0] GNU General Public License version 2
+6.[GPL-3.0] GNU General Public License version 3
+7.[LGPL-3.0] GNU Lesser General Public License, version 3
+8.[MPL-2.0] Mozilla Public License 2.0
+9.[EPL-2.0] Eclipse Public License 2.0
+10.[CDDL-1.0] Common Development and Distribution License 1.0
+```
+
+Category 2: special purposes licenses.
+
+```
+11.[BSD-2-Clause-Patent] BSD-2 Clause Plus Patent License Patent
+12.[ECL-2.0] Educational Community License, Version 2.0
+13.[IPA] IPA Font License
+14.[BSD-3-Clause-LBNL] Lawrence Berkeley National Labs BSD Variant License
+15.[NASA-1.3] NASA Open Source Agreement 1.3
+16.[OSET-PL-2.1] OSET Public License version 2.1
+17.[OFL-1.1] SIL Open Font License 1.1
+18.[Unicode-DFS-2016] Unicode License Agreement - Data Files and Software
+19.[Unlicense] The Unlicense
+20.[UCL-1.0] Upstream Compatibility License v1.0
+21.[CC0 1.0] Creative Commons Zero v1.0 Universal、[CC-BY-SA-4.0] Creative Commons Attribution ShareAlike 4.0 International Public License、[CC-BY-NC-SA-4.0] Creative Commons Attribution Non Commercial Share Alike 4.0 International、[CC-BY-NC-ND-4.0] Creative Commons Attribution Non Commercial No Derivatives 4.0 International
+22.[CERN-OHL-P-2.0] CERN Open Hardware Licence Version 2 - Permissive
+23.[CERN-OHL-W-2.0] CERN Open Hardware Licence Version 2 - Weakly Reciprocal
+24.[CERN-OHL-S-2.0] CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+25.[CDLA-Permissive-2.0] Community Data License Agreement Permissive 2.0
+26.*[C-UDA-1.0] Computational Use of Data Agreement v1.0
+and other special purposes licenses
+```
+
+Category 3: special jurisdiction and minority language licenses
+
+```
+27.[CeCILL-2.1] CeCILL Free Software License Agreement v2.1
+28.[LiLiQ-P-1.1] Licence Libre du Québec – Permissive version 1.1
+29.[IPA] IPA Font License
+30.[EUPL-1.2] European Union Public License 1.2
+31.*[공공누리] 공공저작물 자유이용 허락 표시제도 / Korea Open Government License (KOGL)
+32.*[LAL-1.3] Licence Art Libre 1.3
+33.*[D-FSL-1.0] Deutsche Freie Software Lizenz
+34.*[CC-BY-SA-2.1-JP] Creative Commons Attribution Share Alike 2.1 Japan
+and other special jurisdiction and minority language licenses
+```
+
+Category 4: any other licenses
+
+```
+35.[0BSD] BSD Zero Clause License
+36.[AGPL-3.0] GNU Affero General Public License v3.0
+37.[Apache-1.1] Apache License 1.1
+38.[BSD-1-clause] BSD-1-clause
+39.[GFDL-1.3] GNU Free Documentation License v1.3
+40.[ISC] ISC License
+and other licenses not mentioned above. 
+```
+
+
+## Acknowledgements and Promotion
+
+The OpenAtom acknowledges all contributors with the Letter of Appreciation: KUMA, Lotus, MI Hu, OU Xuanqi, OliviaCat, Peaksol, Sara, Sikkim, Vanessa, William, and ZHAO Zhenhua (listed in alphabetical order).
+
+The final versions of license translation will be published on the official website and the WeChat platform of OpenAtom, and will also be recommended to open source organizations such as Apache Software Foundation, Free Software Foundation, Eclipse Foundation and the Open Source Initiative (OSI), etc.
