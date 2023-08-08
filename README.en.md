@@ -30,11 +30,11 @@ We also set up a review roadmap to further this Section. We encourage you to adj
 
 Currently, the experts have reviewed the following [open source license translations](https://atomgit.com/OpenAtomFoundation/translation/tree/master/%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%BF%BB%E8%AF%91) and made them publicly available:
 
-- [MIT](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/MIT%E7%BF%BB%E8%AF%91-%E8%AF%84%E5%AE%A1%E4%BC%9A%E5%AE%A1%E5%AE%9A%E7%A8%BF-20230115.md)
+- [MIT](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/%5BEN-CN%5D%20MIT-final%20version-20230115.md)
 
-- [BSD-3-Clause](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/BSD-3-clause%E7%BF%BB%E8%AF%91-%E8%AF%84%E5%AE%A1%E4%BC%9A%E5%AE%A1%E5%AE%9A%E7%A8%BF-20230115.md)
+- [BSD-3-Clause](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/%5BEN-CN%5D%20BSD-3-clause-final%20version-20230115.md)
 
-- [Apache-2.0](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/Apache-2.0%E7%BF%BB%E8%AF%91-%E8%AF%84%E5%AE%A1%E4%BC%9A%E5%AE%A1%E5%AE%9A%E7%A8%BF-20230409.md)
+- [Apache-2.0](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/%5BEN-CN%5D%20Apache-2.0-final%20version-20230409.md)
 
 Open-source license currently quasi finished its review includes:
 
