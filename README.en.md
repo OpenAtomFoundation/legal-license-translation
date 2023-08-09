@@ -121,6 +121,6 @@ and other licenses not mentioned above.
 
 ## Acknowledgements and Promotion
 
-We extend our sincere gratitude to the translators and reviewers of this section: **KUMA, Lotus, MI Hu, OU Xuanqi, OliviaCat, Peaksol, Sara, Sikkim, Vanessa, William, and ZHAO Zhenhua** (listed in alphabetical order).
+We extend our sincere gratitude to 12 translators: **Lotus、[Vanessa](http://gitee.com/vanessaguo)、[Peaksol](http://gitee.com/peaksol)、[野行僧](http://gitee.com/gzkoala)、[迷糊](http://gitee.com/xriqc)、[赵振华](http://gitee.com/richzhao409)、Sikkim、[Sara](http://gitee.com/zhang-glas)、[OliviaCat](https://gitee.com/oliviacat)、[欧轩琦](https://gitee.com/ouxuanqi)、[KUMA](https://gitee.com/xue-yangjie)、[Leo](https://gitee.com/jin-sihan777) ** (listed by order of first submission).
 
 The final versions of license translation will be published on the official website and the WeChat platform of OpenAtom, and will also be recommended to open source organizations such as Apache Software Foundation, Free Software Foundation, Eclipse Foundation and the Open Source Initiative (OSI), etc.
