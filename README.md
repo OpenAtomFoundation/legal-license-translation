@@ -1,5 +1,8 @@
 # 源译识 | 征集开源许可证中文译文，欢迎大家译起来！
 
+- *请您注意，本仓库已搬迁到新仓库：https://atomgit.com/translation/Contransus，本仓库已停止维护。*
+- *Please kindely notice that, this repo is no longer active, and is replaced and superseded by the [new repo](https://atomgit.com/translation/Contransus).*
+
 “源译识”项目是由开放原子开源基金会发起的开源公益翻译项目，聚焦于开源许可证、司法案例、专业书籍、重点报告及社区资讯等开源相关内容的专业化、社区化高质量翻译，旨在通过共译推动共识，促进开源领域不同语境和法域之间的交流、理解，从而反哺开源生态。“源译识”欢迎您通过专项投稿、社区讨论、内容推荐、专家推荐等方式共同参与本项目。如您对本项目有任何意见或建议，请邮件联系legal@openatom.org。详情请见：https://atomgit.com/OpenAtomFoundation/translation .
 
 ## 背景
