@@ -1,12 +1,9 @@
 # 源译识 | 征集开源许可证中文译文，欢迎大家译起来！
 
-- *请您注意，本仓库已搬迁到[新仓库](https://atomgit.com/translation/Contransus)，本仓库已停止维护。*
-- *Please kindely notice that, this repo is no longer active, and is replaced and superseded by the [new repo](https://atomgit.com/translation/Contransus).*
+- *请您注意，本仓库已搬迁到[新仓库](https://atomgit.com/translation/license-translation)，本仓库已停止维护。*
+- *Please kindely notice that, this repo is no longer active, and is replaced and superseded by the [new repo](https://atomgit.com/translation/license-translation).*
 
 “源译识”项目是由开放原子开源基金会发起的开源公益翻译项目，聚焦于开源许可证、司法案例、专业书籍、重点报告及社区资讯等开源相关内容的专业化、社区化高质量翻译，旨在通过共译推动共识，促进开源领域不同语境和法域之间的交流、理解，从而反哺开源生态。“源译识”欢迎您通过专项投稿、社区讨论、内容推荐、专家推荐等方式共同参与本项目。如您对本项目有任何意见或建议，请邮件联系legal@openatom.org。详情请见：https://atomgit.com/OpenAtomFoundation/translation .
-
-## 背景
-当前，除木兰（Mulan）系列许可证采用中英双语版本正式发布外，主流的开源许可证大多使用英语、甚至专业化法律英语文本发布，这对以汉语为母语的开发者在理解、使用相关开源许可证时形成了一定的语言障碍；而目前主流开源许可证并无经审核发布的中文译本。源译识项目特发起开源许可证译文翻译子项目，拟通过公开征稿、开放讨论、专家评审的方式，以基金会名义发布公开可用的、可信赖的中文译本，降低开源许可证的理解门槛。即日起面向征集来源包括但不限于高校学生、企业开发者、个人开发者以及广大的开源爱好者，欢迎您用实名或昵称参与投稿。
 
 ## 目标
 为开发者提供公开可用的、可信赖的开源许可证中文译本。
