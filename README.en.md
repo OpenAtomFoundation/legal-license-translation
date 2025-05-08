@@ -1,15 +1,10 @@
-# Contransus™ | Welcome submit your Chinese Translations for Open Source LICENSE! 
+# Contransus | Welcome to submit your Chinese Translations for Open Source LICENSE! 
 
 
 
-The "Contransus" (源译识) Translation Project, initiated by the OpenAtom Foundation, **aims to build open source consensus via translation**, in the hope of developing a widerly-shared open source ecosystem. This project is launched to promote better understanding of open source by offering professionally-reviewed, publicly available and community-oriented translations of various open source resources, primarily into Chinese. The project focuses on not only the **translation of open-source licenses**, but also of **open-source-related judgments, books, key reports, etc**.
+The "Contransus" (源译识) Translation Project, initiated by the OpenAtom Foundation, **aims to build open source consensus via translation**, in the hope of developing a widerly-shared open source ecosystem. This project is launched to promote a better understanding of open source by offering professionally-reviewed, publicly available and community-oriented translations of various open source resources, primarily into Chinese. The project focuses on not only the **translation of open-source licenses**, but also of **open-source-related judgments, books, key reports, etc**.
 
 **Through the [Project Repository](https://atomgit.com/OpenAtomFoundation/translation), you are warmly welcome to participate in the Contransus Project** by using approved translations, filing your translation, sharing your opinion on any translation texts, as well as recommending useful resources and experts in open source domain. If you have any feedback or suggestions, please feel free to contact us via legal[at]openatom.org.
-
-
-## Translations of Open Source Licenses
-
-The reason why we initiated the open-source licenses section (this “Section”) is that while most open source licenses are only available in English and even in professional legal language, native Chinese developers continue to meet the language barrier in understanding and using open source licenses properly. Aiming to provide a permanent and reliable Chinese translation of open-source licenses that is accessible to everyone, this Section is open to the community for contributions and discussions.
 
 
 ## Review Panel of Experts (yr 2023)
@@ -20,7 +15,7 @@ We established a Review Panel of experts in regard to both open source and langu
 
 ## Review Process and Roadmap
 
-The experts will organise the review meeting(s) for the License of which there are at least three translations submitted. The panel votes to **a candidate translation text** first, reviews and revises it line by line then. After publishing in the community for at least one month and incorporating any changes after feedback (you can do this from the Issue or directly email to Translation@openatom.io) or enquires made to the steward(s) of the OS license, **the revised text** becomes the **finalized text** shared under CC0. Although the review meetings are NOT open to the public, we publish the minutes to reflect all our discussions and explanations, as well as to follow up on the enquiries.
+The experts will organise the review meeting(s) for the License for which at least three translations are submitted. The panel votes to **a candidate translation text** first, reviews and revises it line by line. After publishing in the community for at least one month and incorporating any changes after feedback (you can do this from the Issue or directly email to Translation@openatom.io) or inquiries made to the steward(s) of the OS license, **the revised text** becomes the **finalized text** shared under CC0. Although the review meetings are NOT open to the public, we publish the minutes to reflect all our discussions and explanations, as well as to follow up on the enquiries.
 
 We also set up a review roadmap to further the translation. We encourage you to adjust your submission timeline in accordance with this review plan. 
 - 2023 Q1-Q2：**permissive licenses**
@@ -36,9 +31,6 @@ Currently, the experts have reviewed the following [open source license translat
 
 - [Apache-2.0](https://gitee.com/OpenAtomFoundation/legal-license-translation/blob/master/%E8%AF%91%E6%96%87%E8%AF%84%E5%AE%A1&%E5%AE%A1%E5%AE%9A%E7%A8%BF%20Review&Final%20texts/%5BEN-CN%5D%20Apache-2.0-final%20text-20230409.md)
 
-Open-source license currently quasi finished its review includes:
-
-- GNU GPL V3
 
 ## Submission Process
 
@@ -46,7 +38,7 @@ Open-source license currently quasi finished its review includes:
 
 (2)Please use the following format to name your file: [SDPX License Abbreviation] Translation - [Your Name] - [Date of Submission/YYYYMMDD]. 
 
-(3)Along with your submission, **please kindly include a Statement of Contribution: I, [Your Name], hereby declare that this translation is my original work. If it is selected by the Contransus Translation Program as a candidate version to be reviewed and finalized, I agree to allow OpenAtom to share it in the public domain under the Creative Commons Zero License (CC0).** The submissions will NOT be deemed valid unless such Statement is included.
+(3)Along with your submission, **please kindly include a Statement of Contribution: I, [Your Name], hereby declare that this translation is my original work. If it is selected by the Contransus Translation Program as a candidate version to be reviewed and finalized, I agree to allow OpenAtom to share it in the public domain under the Creative Commons Zero License (CC0).** The submissions will NOT be deemed valid unless such a Statement is included.
 
 ## Submission Categories
 
